@@ -19,6 +19,18 @@ module.exports = [
     },
   },
   {
+    test: /\.(svg)$/i, 
+    use: [
+      {
+        loader: 'file-loader',
+        options: {
+          name: '[name].[hash].[ext]', 
+          outputPath: 'images/',        
+        },
+      },
+    ],
+  },
+  {
     test: /\.jsx?$/,
     use: {
       loader: 'babel-loader',
