@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: { 
+        golos: ['Golos Text', 'sans-serif'],
+      }, 
+      colors: {
+        background: '#CDCDCD',
+      },
+    },
   },
   plugins: [
     require("@tailwindcss/typography"),
@@ -10,4 +17,3 @@ module.exports = {
     require("@tailwindcss/aspect-ratio")
   ],
 }
-
