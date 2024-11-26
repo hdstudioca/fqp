@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 
 import "../stylesheets/Table.module.css";
-
 
 import {
   createColumnHelper,
@@ -21,7 +20,7 @@ const defaultData = [
     Material: "-",
     Price: "-",
     Total: "-",
-  }
+  },
 ];
 
 // Helper function for creating column definitions
@@ -59,17 +58,15 @@ const columns = [
 ];
 
 // Main application component
-function FenceTable({initialTableName = "Table 1"}) {
-
+function FenceTable({ initialTableName = "Table 1" }) {
   const [tableName, setTableName] = useState(initialTableName);
   // State to hold table data
   const [data, _setData] = useState(() => [...defaultData]);
-  
 
   // Create the table instance with data and columns
   const table = useReactTable({
     columns,
-    data,    
+    data,
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
     initialState: {
@@ -80,6 +77,8 @@ function FenceTable({initialTableName = "Table 1"}) {
     },
   });
 
+  const totalPages = useMemo(() => table.getPageCount(), [table]);
+
   return (
     <div className="p-2 bg-gray-100">
       {" "}
@@ -88,11 +87,9 @@ function FenceTable({initialTableName = "Table 1"}) {
       <table>
         {/* Table header */}
         <thead>
-            <tr>
-                <th className="rounded-t-md border-none">
-                  {tableName}                  
-                </th>
-            </tr>
+          <tr>
+            <th className="rounded-t-md border-none">{tableName}</th>
+          </tr>
         </thead>
         <thead>
           {table.getHeaderGroups().map((headerGroup) => (
@@ -124,25 +121,40 @@ function FenceTable({initialTableName = "Table 1"}) {
               ))}
             </tr>
           ))}
-        </tbody >
+        </tbody>
         {/* Table footer */}
       </table>
-      <div className="h-4" /> {/* Spacer */}
       {/* Button to trigger re-render */}
-      <div className="flex justify-between">
+      <div className="flex justify-center">
         <button
+          className="px-2 border-solid border rounded-lg text-md border-gray-200 hover:text-white"
           onClick={() => table.previousPage()}
           disabled={!table.getCanPreviousPage()}
         >
-          {"<<"}
+          {"< Prev"}
         </button>
-        <div className="border rounded-lg select-none text-center text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">{table.getState().pagination.pageIndex + 1}</div>
+        <div className="flex">
+          {" "}
+          {Array.from({ length: totalPages }, (_, index) => (
+            <div
+              key={index}
+              className={`border rounded-lg select-none text-center text-base text-lg px-2 ml-2 ${
+                table.getState().pagination.pageIndex === index
+                  ? "bg-green-600 text-white"
+                  : ""
+              }`}
+              onClick={() => table.setPageIndex(index)}
+            >
+              {index + 1}
+            </div>
+          ))}
+        </div>
         <button
-          className=""
+          className="px-2 ml-2 border-solid border rounded-lg text-md border-gray-200 hover:text-white"
           onClick={() => table.nextPage()}
           disabled={!table.getCanNextPage()}
         >
-          {">>"}
+          {"Next >"}
         </button>
       </div>
     </div>
