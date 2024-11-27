@@ -74,15 +74,87 @@ const Sidebar = () => {
             </div>
           )}
 
-          <div className="bg-gray-200 cursor-pointer p-2">
+<div
+            className="bg-gray-200 cursor-pointer p-2"
+            onClick={() => toggleGrid("squareTensionBand")}
+          >
             Square Tension Bands
           </div>
-          <div className="bg-gray-200 cursor-pointer p-2">
+          {activeGrid === "squareTensionBand" && (
+            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
+              <div className="grid grid-cols-2 text-sm">
+                <div className="font-bold text-left m-2"> Item Number </div>
+                <div className="font-bold text-left m-2"> Description </div>
+                <div className="text-left m-2"> 00000-XX </div>
+                <div className="text-left m-2"> square Tension Band </div>
+              </div>
+            </div>
+          )}
+          <div
+            className="bg-gray-200 cursor-pointer p-2"
+            onClick={() => toggleGrid("squareBraceBand")}
+          >
             Square Brace Bands
           </div>
-          <div className="bg-gray-200 cursor-pointer p-2"> Square Dome Cap </div>
-          <div className="bg-gray-200 cursor-pointer p-2"> Line Post Tops </div>
-          <div className="bg-gray-200 cursor-pointer p-2"> Rail End </div>
+          {activeGrid === "squareBraceBand" && (
+            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
+              <div className="grid grid-cols-2 text-sm">
+                <div className="font-bold text-left m-2"> Item Number </div>
+                <div className="font-bold text-left m-2"> Description </div>
+                <div className="text-left m-2"> 00000-XX </div>
+                <div className="text-left m-2"> Square Brace Band </div>
+              </div>
+            </div>
+          )}
+          <div
+            className="bg-gray-200 cursor-pointer p-2"
+            onClick={() => toggleGrid("squareDomeCap")}
+          >
+            Square Dome Cap
+          </div>
+          {activeGrid === "squareDomeCap" && (
+            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
+              <div className="grid grid-cols-2 text-sm">
+                <div className="font-bold text-left m-2"> Item Number </div>
+                <div className="font-bold text-left m-2"> Description </div>
+                <div className="text-left m-2"> 00000-XX </div>
+                <div className="text-left m-2"> Square Dome Cap </div>
+              </div>
+            </div>
+          )}
+        
+          <div 
+            className="bg-gray-200 cursor-pointer p-2"
+            onClick={() => toggleGrid("linePostTops")}
+          >
+            Line Post Tops
+          </div>
+          {activeGrid === "linePostTops" && (
+            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
+              <div className="grid grid-cols-2 text-sm">
+                <div className="font-bold text-left m-2"> Item Number </div>
+                <div className="font-bold text-left m-2"> Description </div>
+                <div className="text-left m-2"> 00000-XX </div>
+                <div className="text-left m-2"> Line Post Tops </div>
+              </div>
+            </div>
+          )}
+          <div 
+            className="bg-gray-200 cursor-pointer p-2"
+            onClick={() => toggleGrid("railEnds")}
+          >
+            Rail Ends
+          </div>
+          {activeGrid === "railEnds" && (
+            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
+              <div className="grid grid-cols-2 text-sm">
+                <div className="font-bold text-left m-2"> Item Number </div>
+                <div className="font-bold text-left m-2"> Description </div>
+                <div className="text-left m-2"> 00000-XX </div>
+                <div className="text-left m-2"> Rail Ends </div>
+              </div>
+            </div>
+          )}
         </div>
       )}
 
