@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 
 import "../stylesheets/Table.module.css";
 
@@ -79,6 +79,8 @@ function GateTable({initialTableName = "Table 1"}) {
     },
   });
 
+  const totalPages = useMemo(() => table.getPageCount(), [table]);
+
   return (
     <div className="p-2 bg-gray-100">
       {" "}
@@ -126,22 +128,37 @@ function GateTable({initialTableName = "Table 1"}) {
         </tbody>
         {/* Table footer */}
       </table>
-      <div className="h-4" /> {/* Spacer */}
       {/* Button to trigger re-render */}
-      <div className="flex justify-between">
+      <div className="flex justify-center">
         <button
+          className="px-2 border-solid border rounded-lg text-md border-gray-200 hover:text-white"
           onClick={() => table.previousPage()}
           disabled={!table.getCanPreviousPage()}
         >
-          {"Prev"}
+          {"< Prev"}
         </button>
-        <div className="border rounded-lg select-none text-center text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">{table.getState().pagination.pageIndex + 1}</div>
+        <div className="flex">
+          {" "}
+          {Array.from({ length: totalPages }, (_, index) => (
+            <div
+              key={index}
+              className={`border rounded-lg select-none text-center text-base text-lg px-2 ml-2 ${
+                table.getState().pagination.pageIndex === index
+                  ? "bg-green-600 text-white"
+                  : ""
+              }`}
+              onClick={() => table.setPageIndex(index)}
+            >
+              {index + 1}
+            </div>
+          ))}
+        </div>
         <button
-          className=""
+          className="px-2 ml-2 border-solid border rounded-lg text-md border-gray-200 hover:text-white"
           onClick={() => table.nextPage()}
           disabled={!table.getCanNextPage()}
         >
-          {"Next"}
+          {"Next >"}
         </button>
       </div>
     </div>
