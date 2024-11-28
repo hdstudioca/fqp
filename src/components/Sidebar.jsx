@@ -20,15 +20,13 @@ const Sidebar = () => {
   return (
     <div className="relative">
       {/* Categories Menu */}
-      <div className="w-64 h-full bg-gray-100 text-center">
-        
-          <div
-            className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70"
-            onClick={() => toggleSubmenu("fittings")}
-          >
-            Fittings
-          </div>
-        
+      <div className="w-64 h-full bg-gray-200 text-center">
+        <div
+          className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70"
+          onClick={() => toggleSubmenu("fittings")}
+        >
+          Fittings
+        </div>
 
         {activeSubmenu === "fittings" && (
           <div className="h-lg:max-h-96 max-h-64 overflow-auto">
@@ -41,6 +39,13 @@ const Sidebar = () => {
                 {key.replace(/([A-Z]|\d\d[A-Z])/g, " $1")}{" "}
               </div>
             ))}
+            {/* Add Item Button */}
+            <div
+              className="bg-blue-400 cursor-pointer p-2 text-white font-bold hover:bg-blue-500 active:bg-blue-600"
+              onClick={""} // Define this function to handle adding items to JSON
+            >
+              + Add Item
+            </div>
           </div>
         )}
         <div className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70">
