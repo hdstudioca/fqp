@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import fittings from "../JSON/fittings.json";
 
 const Sidebar = () => {
   const [activeSubmenu, setActiveSubmenu] = useState(null);
@@ -13,153 +14,77 @@ const Sidebar = () => {
     setActiveGrid(activeGrid === grid ? null : grid);
   };
 
+  const fittingKeys = Object.keys(fittings).map((key) => {
+    return key; // Returns each key
+  });
+  console.log(fittingKeys);
   return (
-    <div className="relative w-64 h-full bg-gray-100 text-center">
-      <div
-        className="bg-zinc-400 cursor-pointer p-2"
-        onClick={() => toggleSubmenu("fittings")}
-      >
-        Fittings
+    <div className="relative">
+      {/* Categories Menu */}
+      <div className="w-64 h-full bg-gray-100 text-center">
+        <div
+          className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70"
+          onClick={() => toggleSubmenu("fittings")}
+        >
+          Fittings
+        </div>
+
+        {activeSubmenu === "fittings" && (
+          <div className="max-h-64 overflow-auto">
+            {fittingKeys.map((key) => (
+              <div
+                key={key}
+                className="bg-gray-200 cursor-pointer p-2 hover:bg-gray-300 active:bg-gray-950 active:bg-opacity-20"
+                onClick={() => toggleGrid(key)}
+              >
+                {key}
+              </div>
+            ))}
+          </div>
+        )}
+        <div className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70"> Pipe </div>
+        <div className="bg-zinc-400 cursor-pointer p-2 hover:bg-zinc-500 active:bg-gray-950 active:bg-opacity-70"> Mesh </div>
       </div>
-      {activeSubmenu === "fittings" && (
-        <div className="relative">
-          <div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("tensionBands")}
-          >
-            Tension Bands
-          </div>
-          {activeGrid === "tensionBands" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 04001-XX </div>
-                <div className="text-left m-2"> 1 3/8" Tension Band </div>
-              </div>
-            </div>
-          )}
 
-          <div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("braceBands")}
-          >
-            Brace Bands
-          </div>
-          {activeGrid === "braceBands" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Brace Band </div>
-              </div>
-            </div>
-          )}
+      {/* Submenu as a Sidebar */}
+      {activeGrid && (
+        <div id="overflowDiv" className="absolute top-0 left-64 w-64 h-80 resize-y borde bg-white shadow-md overflow-auto">
+          <div className="grid grid-cols-2 text-sm">
+            <div className="font-bold text-left m-2">Item Number</div>
+            <div className="font-bold text-left m-2">Description</div>
 
-          <div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("domeCap")}
-          >
-            Dome Cap
+            {/* Check if the category is proClamps or privacySlats */}
+            {activeGrid === "proClamps" || activeGrid === "privacySlats"
+              ? // Handle Nested Structure
+                Object.keys(fittings[activeGrid][0]).map((groupKey) => (
+                  <React.Fragment key={groupKey}>
+                    {/* Subgroup Header */}
+                    <div className="col-span-2 font-bold bg-gray-200 text-left m-2 ">
+                      {groupKey.replace(/([A-Z]|\d\d[A-Z])/g, " $1")}{" "}
+                      {/* Format key name */}
+                    </div>
+                    {}
+                    {/* Items in the subgroup */}
+                    {fittings[activeGrid][0][groupKey].map((fitting) => (
+                      <React.Fragment key={fitting["Item #"]}>
+                        <div className="text-left m-2">{fitting["Item #"]}</div>
+                        <div className="text-left m-2">
+                          {fitting.Description}
+                        </div>
+                      </React.Fragment>
+                    ))}
+                  </React.Fragment>
+                ))
+              : // Handle Flat Arrays for Other Categories
+                fittings[activeGrid]?.map((fitting) => (
+                  <React.Fragment key={fitting["Item #"]}>
+                    <div className="text-left m-2">{fitting["Item #"]}</div>
+                    <div className="text-left m-2">{fitting.Description}</div>
+                  </React.Fragment>
+                ))}
           </div>
-          {activeGrid === "domeCap" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Dome Cap </div>
-              </div>
-            </div>
-          )}
-
-<div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("squareTensionBand")}
-          >
-            Square Tension Bands
-          </div>
-          {activeGrid === "squareTensionBand" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> square Tension Band </div>
-              </div>
-            </div>
-          )}
-          <div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("squareBraceBand")}
-          >
-            Square Brace Bands
-          </div>
-          {activeGrid === "squareBraceBand" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Square Brace Band </div>
-              </div>
-            </div>
-          )}
-          <div
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("squareDomeCap")}
-          >
-            Square Dome Cap
-          </div>
-          {activeGrid === "squareDomeCap" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Square Dome Cap </div>
-              </div>
-            </div>
-          )}
-        
-          <div 
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("linePostTops")}
-          >
-            Line Post Tops
-          </div>
-          {activeGrid === "linePostTops" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Line Post Tops </div>
-              </div>
-            </div>
-          )}
-          <div 
-            className="bg-gray-200 cursor-pointer p-2"
-            onClick={() => toggleGrid("railEnds")}
-          >
-            Rail Ends
-          </div>
-          {activeGrid === "railEnds" && (
-            <div className="absolute top-0 left-full w-64 border bg-white shadow-md">
-              <div className="grid grid-cols-2 text-sm">
-                <div className="font-bold text-left m-2"> Item Number </div>
-                <div className="font-bold text-left m-2"> Description </div>
-                <div className="text-left m-2"> 00000-XX </div>
-                <div className="text-left m-2"> Rail Ends </div>
-              </div>
-            </div>
-          )}
         </div>
       )}
-
-      <div className="bg-zinc-400 cursor-pointer p-2"> Pipe </div>
-      <div className="bg-zinc-400 cursor-pointer p-2"> Mesh </div>
     </div>
   );
 };
