@@ -1,2823 +1,3642 @@
 {
-  "1": {
-    "Item #": "04001-XX",
-    "Description": "1 3/8\"  Tension Band",
-    "Weight": ".14 lbs",
-    "Bag Qty": 250,
-    "PS": 0.49,
-    "AL": 0,
-    "BL": 0.68,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "2": {
-    "Item #": "04002-XX",
-    "Description": "1 5/8\"  Tension Band",
-    "Weight": ".15 lbs",
-    "Bag Qty": 250,
-    "PS": 0.51,
-    "AL": 0,
-    "BL": 0.79,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "3": {
-    "Item #": "04003-XX",
-    "Description": "1 7/8\"  Tension Band",
-    "Weight": ".16 lbs",
-    "Bag Qty": 250,
-    "PS": 0.61,
-    "AL": 0,
-    "BL": 0.82,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "4": {
-    "Item #": "04004-XX",
-    "Description": "2 3/8\"  Tension Band",
-    "Weight": ".17 lbs",
-    "Bag Qty": 250,
-    "PS": 0.72,
-    "AL": 0,
-    "BL": 0.93,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "5": {
-    "Item #": "04005-XX",
-    "Description": "2 7/8\"  Tension Band",
-    "Weight": ".22 lbs",
-    "Bag Qty": 100,
-    "PS": 0.79,
-    "AL": 0,
-    "BL": 1.03,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "6": {
-    "Item #": "04006-XX",
-    "Description": "3 1/2\"  Tension Band",
-    "Weight": ".35 lbs",
-    "Bag Qty": 100,
-    "PS": 0.95,
-    "AL": 0,
-    "BL": 1.22,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "7": {
-    "Item #": "04007-PS",
-    "Description": "4 1/2\"  Tension Band",
-    "Weight": ".36 lbs",
-    "Bag Qty": 100,
-    "PS": 1.17,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "8": {
-    "Item #": "04008-PS",
-    "Description": "6 5/8\"  Tension Band",
-    "Weight": ".68 lbs",
-    "Bag Qty": 50,
-    "PS": 1.76,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "9": {
-    "Item #": "04020-XX",
-    "Description": "1 3/8\"  Brace Band",
-    "Weight": ".13 lbs",
-    "Bag Qty": 250,
-    "PS": 0.49,
-    "AL": 0,
-    "BL": 0.7,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "10": {
-    "Item #": "04021-XX",
-    "Description": "1 5/8\"  Brace Band",
-    "Weight": ".15 lbs",
-    "Bag Qty": 250,
-    "PS": 0.53,
-    "AL": 0,
-    "BL": 0.82,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "11": {
-    "Item #": "04022-XX",
-    "Description": "1 7/8\"  Brace Band",
-    "Weight": ".17 lbs",
-    "Bag Qty": 250,
-    "PS": 0.63,
-    "AL": 0,
-    "BL": 0.84,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "12": {
-    "Item #": "04023-XX",
-    "Description": "2 3/8\"  Brace Band",
-    "Weight": ".22 lbs",
-    "Bag Qty": 250,
-    "PS": 0.79,
-    "AL": 0,
-    "BL": 0.95,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "13": {
-    "Item #": "04024-XX",
-    "Description": "2 7/8\"  Brace Band",
-    "Weight": ".23 lbs",
-    "Bag Qty": 100,
-    "PS": 0.82,
-    "AL": 0,
-    "BL": 1.05,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "14": {
-    "Item #": "04025-XX",
-    "Description": "3 1/2\"  Brace Band",
-    "Weight": ".28 lbs",
-    "Bag Qty": 100,
-    "PS": 1,
-    "AL": 0,
-    "BL": 1.22,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "15": {
-    "Item #": "04026-PS",
-    "Description": "4 1/2\"  Brace Band",
-    "Weight": ".36 lbs",
-    "Bag Qty": 100,
-    "PS": 1.24,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "16": {
-    "Item #": "04027-PS",
-    "Description": "6 5/8\"  Brace Band",
-    "Weight": ".65 lbs",
-    "Bag Qty": 50,
-    "PS": 1.79,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "17": {
-    "Item #": "04030-XX",
-    "Description": "1 3/8\"  Dome Cap",
-    "Weight": ".1 lbs",
-    "Bag Qty": 250,
-    "PS": 0.5,
-    "AL": 0.6,
-    "BL": 0.82,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "18": {
-    "Item #": "04031-XX",
-    "Description": "1 5/8\"  Dome Cap",
-    "Weight": ".12 lbs",
-    "Bag Qty": 250,
-    "PS": 0.8,
-    "AL": 0.71,
-    "BL": 1,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "19": {
-    "Item #": "04032-XX",
-    "Description": "1 7/8\"  Dome Cap",
-    "Weight": ".14 lbs",
-    "Bag Qty": 200,
-    "PS": 0.96,
-    "AL": 0.73,
-    "BL": 1.22,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "20": {
-    "Item #": "04033-XX",
-    "Description": "2 3/8\"  Dome Cap",
-    "Weight": ".26 lbs",
-    "Bag Qty": 125,
-    "PS": 1.12,
-    "AL": 1.06,
-    "BL": 1.55,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "21": {
-    "Item #": "04034-XX",
-    "Description": "2 7/8\"  Dome Cap",
-    "Weight": ".28 lbs",
-    "Bag Qty": 100,
-    "PS": 1.65,
-    "AL": 2.2,
-    "BL": 2.56,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "22": {
-    "Item #": "04035-XX",
-    "Description": "3 1/2\"  Dome Cap",
-    "Weight": ".62 lbs",
-    "Bag Qty": 50,
-    "PS": 3.03,
-    "AL": 2.25,
-    "BL": 2.72,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "23": {
-    "Item #": "04036-XX",
-    "Description": "4 1/2\"  Dome Cap",
-    "Weight": ".9 lbs",
-    "Bag Qty": 50,
-    "PS": 3.83,
-    "AL": 3.6,
-    "BL": 3.82,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "24": {
-    "Item #": "04037-PS",
-    "Description": "6 5/8\"  Dome Cap",
-    "Weight": "1.91 lbs",
-    "Bag Qty": 25,
-    "PS": 8.08,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 1"
-  },
-  "25": {
-    "Item #": "04710-XX",
-    "Description": "1  1/2\"  Tension Band",
-    "Weight": ".14 lbs",
-    "Bag Qty": 250,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "26": {
-    "Item #": "04712-XX",
-    "Description": "2\"",
-    "Weight": ".15 lbs",
-    "Bag Qty": 250,
-    "PS": 2.49,
-    "AL": 0,
-    "BL": 2.97,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "27": {
-    "Item #": "04714-XX",
-    "Description": "2 1/2\"  Tension Band",
-    "Weight": ".16 lbs",
-    "Bag Qty": 250,
-    "PS": 2.87,
-    "AL": 0,
-    "BL": 3.36,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "28": {
-    "Item #": "04716-XX",
-    "Description": "3\"",
-    "Weight": ".17 lbs",
-    "Bag Qty": 250,
-    "PS": 3.23,
-    "AL": 0,
-    "BL": 3.72,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "29": {
-    "Item #": "04718-XX",
-    "Description": "3\u201D 1/2\u201D Tension Band",
-    "Weight": ".2 lbs",
-    "Bag Qty": 250,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "30": {
-    "Item #": "04720-XX",
-    "Description": "4\"",
-    "Weight": ".22 lbs",
-    "Bag Qty": 250,
-    "PS": 4.73,
-    "AL": 0,
-    "BL": 5.21,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "31": {
-    "Item #": "04722-XX",
-    "Description": "6\"",
-    "Weight": ".35 lbs",
-    "Bag Qty": 250,
-    "PS": 4.87,
-    "AL": 0,
-    "BL": 5.36,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "32": {
-    "Item #": "04740-XX",
-    "Description": "1 1/2\"  Brace Band",
-    "Weight": ".13 lbs",
-    "Bag Qty": 250,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "33": {
-    "Item #": "04742-XX",
-    "Description": "2\"  Brace Band",
-    "Weight": ".15 lbs",
-    "Bag Qty": 250,
-    "PS": 2.67,
-    "AL": 0,
-    "BL": 3.02,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "34": {
-    "Item #": "04744-XX",
-    "Description": "2 1/2\"  Brace Band",
-    "Weight": ".17 lbs",
-    "Bag Qty": 250,
-    "PS": 3.31,
-    "AL": 0,
-    "BL": 3.56,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "35": {
-    "Item #": "04746-XX",
-    "Description": "3\"  Brace Band",
-    "Weight": ".22 lbs",
-    "Bag Qty": 250,
-    "PS": 5.9,
-    "AL": 0,
-    "BL": 4.7,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "36": {
-    "Item #": "04748-XX",
-    "Description": "3 1/2\u201D Brace Band",
-    "Weight": ".22 lbs",
-    "Bag Qty": 250,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "37": {
-    "Item #": "04750-XX",
-    "Description": "4\"  Brace Band",
-    "Weight": ".23 lbs",
-    "Bag Qty": 250,
-    "PS": 5.23,
-    "AL": 0,
-    "BL": 5.23,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "38": {
-    "Item #": "04752-XX",
-    "Description": "6 \u201C Brace Band",
-    "Weight": ".28 lbs",
-    "Bag Qty": 100,
-    "PS": 8.01,
-    "AL": 0,
-    "BL": 8.01,
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "39": {
-    "Item #": "04760-PS",
-    "Description": "1 1/2\"  Dome Cap",
-    "Weight": ".1 lbs",
-    "Bag Qty": 250,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "40": {
-    "Item #": "04762-PS",
-    "Description": "2\"  Dome Cap",
-    "Weight": ".12 lbs",
-    "Bag Qty": 250,
-    "PS": 2.57,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "41": {
-    "Item #": "04764-PS",
-    "Description": "2.5\"  Dome Cap",
-    "Weight": ".14 lbs",
-    "Bag Qty": 200,
-    "PS": 3.88,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "42": {
-    "Item #": "04766-PS",
-    "Description": "3\"  Dome Cap",
-    "Weight": ".26 lbs",
-    "Bag Qty": 125,
-    "PS": 4.32,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "43": {
-    "Item #": "04768-PS",
-    "Description": "3 1/2\u201D  Dome Cap",
-    "Weight": ".26 lbs",
-    "Bag Qty": 125,
-    "PS": 4.22,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "44": {
-    "Item #": "04770-PS",
-    "Description": "4\"  Dome Cap",
-    "Weight": ".28 lbs",
-    "Bag Qty": 100,
-    "PS": 5.87,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "45": {
-    "Item #": "04772-PS",
-    "Description": "6\"  Dome Cap",
-    "Weight": ".62 lbs",
-    "Bag Qty": 50,
-    "PS": 8.97,
-    "AL": 0,
-    "BL": "ORN 6",
-    "MA": 0,
-    "Page": "FIT 2"
-  },
-  "46": {
-    "Item #": "04040-XX",
-    "Description": "1 5/8\" X 1 3/8\"",
-    "Weight": ".36 lbs",
-    "Bag Qty": 100,
-    "PS": 0.94,
-    "AL": 1.72,
-    "BL": 1.72,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "47": {
-    "Item #": "04041-PS",
-    "Description": "1 5/8\" x 1 5/8\"",
-    "Weight": ".39 lbs",
-    "Bag Qty": 100,
-    "PS": 1.04,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "48": {
-    "Item #": "04042-XX",
-    "Description": "1 7/8\" X 1 3/8\"",
-    "Weight": ".43 lbs",
-    "Bag Qty": 100,
-    "PS": 1.49,
-    "AL": 2.05,
-    "BL": 2.05,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "49": {
-    "Item #": "04043-XX",
-    "Description": "1 7/8\" X 1 5/8\"",
-    "Weight": ".5 lbs",
-    "Bag Qty": 100,
-    "PS": 1.65,
-    "AL": 2.42,
-    "BL": 2.42,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "50": {
-    "Item #": "04044-XX",
-    "Description": "2 3/8\" X 1 5/8\"",
-    "Weight": ".55 lbs",
-    "Bag Qty": 50,
-    "PS": 1.98,
-    "AL": 0,
-    "BL": 2.56,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "51": {
-    "Item #": "04045-PS",
-    "Description": "2 7/8\" X 1 5/8\"",
-    "Weight": ".62 lbs",
-    "Bag Qty": 50,
-    "PS": 3.21,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "52": {
-    "Item #": "04050-XX",
-    "Description": "1 3/8\"  Rail End",
-    "Weight": ".26 lbs",
-    "Bag Qty": 100,
-    "PS": 1,
-    "AL": 1.48,
-    "BL": 1.48,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "53": {
-    "Item #": "04051-XX",
-    "Description": "1 5/8\"  Rail End",
-    "Weight": ".31 lbs",
-    "Bag Qty": 100,
-    "PS": 1.35,
-    "AL": 1.68,
-    "BL": 1.68,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "54": {
-    "Item #": "04053-XX",
-    "Description": "1 7/8\"  Rail End",
-    "Weight": ".35 lbs",
-    "Bag Qty": 100,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "55": {
-    "Item #": "04054-XX",
-    "Description": "2 3/8\u201D Rail End",
-    "Weight": ".38 lbs",
-    "Bag Qty": 100,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": "CALL",
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "56": {
-    "Item #": "04052-PS",
-    "Description": "1 5/8\"  Rail End  2 hole",
-    "Weight": ".47 lbs",
-    "Bag Qty": 100,
-    "PS": 2.05,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "57": {
-    "Item #": "04060-XX",
-    "Description": "1 3/8\"  Rail Sleeve",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 1.42,
-    "AL": 0,
-    "BL": 1.98,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "58": {
-    "Item #": "04061-XX",
-    "Description": "1 5/8\"  Rail Sleeve",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": 1.74,
-    "AL": 0,
-    "BL": 2.15,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "59": {
-    "Item #": "04063-PS",
-    "Description": "1 7/8\"  Rail Sleeve",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 3"
-  },
-  "60": {
-    "Item #": "04211-PS",
-    "Description": "40\"  Tension Bar (3/16\u201D X 5/8\u201D)",
-    "Weight": "1.12 lbs",
-    "Bag Qty": 25,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "61": {
-    "Item #": "04212-XX",
-    "Description": "46\"  Tension Bar (3/16\u201D X 5/8\u201D)",
-    "Weight": "1.3 lbs",
-    "Bag Qty": 25,
-    "PS": 2.56,
-    "AL": 0,
-    "BL": 5.4,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "62": {
-    "Item #": "04213-XX",
-    "Description": "58\"  Tension Bar (3/16\u201D X 5/8\u201D)",
-    "Weight": "1.6 lbs",
-    "Bag Qty": 25,
-    "PS": 3.2,
-    "AL": 0,
-    "BL": 6.74,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "63": {
-    "Item #": "04214-XX",
-    "Description": "70\"  Tension Bar (3/16\u201D X 5/8\u201D)",
-    "Weight": "1.98 lbs",
-    "Bag Qty": 25,
-    "PS": 4.18,
-    "AL": 0,
-    "BL": 8.1,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "64": {
-    "Item #": "04215-PS",
-    "Description": "82\u201D Tension Bar (3/16\u201D X 5/8\u201D)",
-    "Weight": "2.29 lbs",
-    "Bag Qty": 25,
-    "PS": 4.7,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "65": {
-    "Item #": "04216-PS",
-    "Description": "94\" Tension Bar (3/16\" x 5/8\")",
-    "Weight": "2.69 lbs",
-    "Bag Qty": 25,
-    "PS": 5.14,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "66": {
-    "Item #": "04218-PS",
-    "Description": "118\" Tension Bar (3/16\" x 5/8\")",
-    "Weight": "3.38 lbs",
-    "Bag Qty": 25,
-    "PS": 7.41,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "67": {
-    "Item #": "04221-PS",
-    "Description": "216\"  Tension Bar  (3/16\u201D X 5/8\u201D)",
-    "Weight": "6.2 lbs",
-    "Bag Qty": 25,
-    "PS": 12.92,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "68": {
-    "Item #": "04234-PS",
-    "Description": "70\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "2.38 lbs",
-    "Bag Qty": 25,
-    "PS": 5.01,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "69": {
-    "Item #": "04235-PS",
-    "Description": "82\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "2.8 lbs",
-    "Bag Qty": 25,
-    "PS": 5.85,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "70": {
-    "Item #": "04236-PS",
-    "Description": "94\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "3.2 lbs",
-    "Bag Qty": 25,
-    "PS": 6.69,
-    "AL": 0,
-    "BL": 10.79,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "71": {
-    "Item #": "04237-PS",
-    "Description": "118\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "4.09 lbs",
-    "Bag Qty": 25,
-    "PS": 8.36,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "72": {
-    "Item #": "04238-PS",
-    "Description": "142\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "4.8 lbs",
-    "Bag Qty": 25,
-    "PS": 10.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "73": {
-    "Item #": "04239-PS",
-    "Description": "216\"  Tension Bar (3/16\" X 3/4\")",
-    "Weight": "7.3 lbs",
-    "Bag Qty": 25,
-    "PS": 15.04,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "74": {
-    "Item #": "04180-PS",
-    "Description": "12' Truss Rod (3/8\")",
-    "Weight": "4.51 lbs",
-    "Bag Qty": 25,
-    "PS": 11.2,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "75": {
-    "Item #": "04184-PS",
-    "Description": "Truss Rod Tightener",
-    "Weight": 0.68,
-    "Bag Qty": 200,
-    "PS": 2.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 4"
-  },
-  "76": {
-    "Item #": "04080-PS",
-    "Description": "1 3/8\" X 1 3/8\"  Panel Clamp",
-    "Weight": ".52 lbs",
-    "Bag Qty": 100,
-    "PS": 1.62,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "77": {
-    "Item #": "04081-PS",
-    "Description": "1 5/8\" X 1 5/8\"  Panel Clamp",
-    "Weight": ".62 lbs",
-    "Bag Qty": 50,
-    "PS": 2.09,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "78": {
-    "Item #": "04082-PS",
-    "Description": "1 7/8\" X 1 7/8\"  Panel Clamp",
-    "Weight": ".76 lbs",
-    "Bag Qty": 50,
-    "PS": 2.41,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "79": {
-    "Item #": "04100-PS",
-    "Description": "2 3/8\" X 1 5/8\"",
-    "Weight": 0.58,
-    "Bag Qty": 50,
-    "PS": 3.26,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "80": {
-    "Item #": "04101-PS",
-    "Description": "2 7/8\" X 1 5/8\"",
-    "Weight": 0.6,
-    "Bag Qty": 50,
-    "PS": 3.42,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "81": {
-    "Item #": "04108-PS",
-    "Description": "1 7/8\" X 1 3/8\"  Boulevard Clamp",
-    "Weight": ".56 lbs",
-    "Bag Qty": 50,
-    "PS": 3.54,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "82": {
-    "Item #": "04111-PS",
-    "Description": "1 7/8\" X 1 5/8\"  Boulevard Clamp",
-    "Weight": ".66 lbs",
-    "Bag Qty": 50,
-    "PS": 3.72,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "83": {
-    "Item #": "04111-PS",
-    "Description": "2 3/8\" X 1 5/8\"  Boulevard Clamp",
-    "Weight": ".8 lbs",
-    "Bag Qty": 50,
-    "PS": 4.06,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "84": {
-    "Item #": "04112-PS",
-    "Description": "2 7/8\" X 1 5/8\"  Boulevard Clamp",
-    "Weight": ".9 lbs",
-    "Bag Qty": 50,
-    "PS": 4.48,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "85": {
-    "Item #": "05136-AL",
-    "Description": "1 7/8\u201D Auto Gate Closer",
-    "Weight": "1.25 lbs",
-    "Bag Qty": 12,
-    "PS": 0,
-    "AL": 19.3,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "86": {
-    "Item #": "05138-AL",
-    "Description": "2 3/8\u201D Auto Gate Closer",
-    "Weight": "1.5 lbs",
-    "Bag Qty": 12,
-    "PS": 0,
-    "AL": 26.48,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 5"
-  },
-  "87": {
-    "Item #": "05100-XX",
-    "Description": "1 3/8 Gate Frame Hinge (5/8\u201D)",
-    "Weight": ".3 lbs",
-    "Bag Qty": 100,
-    "PS": 1.05,
-    "AL": 0,
-    "BL": 1.6,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "88": {
-    "Item #": "05102-XX",
-    "Description": "1 5/8 Gate Frame Hinge (5/8\u201D)",
-    "Weight": ".5 lbs",
-    "Bag Qty": 50,
-    "PS": 1.5,
-    "AL": 0,
-    "BL": 2.24,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "89": {
-    "Item #": "05104-XX",
-    "Description": "1 7/8 Gate Frame Hinge (5/8\u201D)",
-    "Weight": ".9 lbs",
-    "Bag Qty": 50,
-    "PS": 1.94,
-    "AL": 0,
-    "BL": 2.33,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "90": {
-    "Item #": "05110-PS",
-    "Description": "1 3/8 Gate Post Hinge (5/8\u201D)",
-    "Weight": ".49lbs",
-    "Bag Qty": 50,
-    "PS": 1.78,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "91": {
-    "Item #": "05112-PS",
-    "Description": "1 5/8 Gate Post Hinge (5/8\u201D)",
-    "Weight": ".51 lbs",
-    "Bag Qty": 50,
-    "PS": 2.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "92": {
-    "Item #": "05114-XX",
-    "Description": "1 7/8 Gate Post Hinge (5/8\u201D)",
-    "Weight": ".74 lbs",
-    "Bag Qty": 50,
-    "PS": 2.53,
-    "AL": 0,
-    "BL": 2.95,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "93": {
-    "Item #": "05116-XX",
-    "Description": "2 3/8 Gate Post Hinge (5/8\u201D)",
-    "Weight": ".89 lbs",
-    "Bag Qty": 50,
-    "PS": 3.02,
-    "AL": 0,
-    "BL": 3.42,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "94": {
-    "Item #": "05118-XX",
-    "Description": "2 7/8 Gate Post Hinge (5/8\u201D)",
-    "Weight": "1.04lbs",
-    "Bag Qty": 50,
-    "PS": 3.32,
-    "AL": 0,
-    "BL": 5.19,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "95": {
-    "Item #": "05120-PS",
-    "Description": "3 1/2 Gate Post Hinge (5/8\u201D)",
-    "Weight": "1.11 lbs",
-    "Bag Qty": 50,
-    "PS": 3.95,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "96": {
-    "Item #": "05126-PS",
-    "Description": "Flat Back Pin Hinge (5/8\u201D)",
-    "Weight": "1.11lbs",
-    "Bag Qty": 50,
-    "PS": 2.83,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "97": {
-    "Item #": "05132-PS",
-    "Description": "1 7/8\u201D x 1 3/8\u201D Gravity Hinge",
-    "Weight": "4.8 lbs",
-    "Bag Qty": 20,
-    "PS": 10.93,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "98": {
-    "Item #": "05134-PS",
-    "Description": "2 3/8\u201D x 1 3/8\u201D Gravity Hinge",
-    "Weight": "8 lbs",
-    "Bag Qty": 20,
-    "PS": 15.46,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 6"
-  },
-  "99": {
-    "Item #": "05142BB",
-    "Description": "2 3/8\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "1.6 lbs",
-    "Bag Qty": 25,
-    "PS": 7.99,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "100": {
-    "Item #": "05144BB",
-    "Description": "2 7/8\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "3.19 lbs",
-    "Bag Qty": 20,
-    "PS": 8.57,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "101": {
-    "Item #": "05146BB",
-    "Description": "3 1/2\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "1.9 lbs",
-    "Bag Qty": 10,
-    "PS": 8.84,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "102": {
-    "Item #": "05147BB",
-    "Description": "4 1/2\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "2.62 lbs",
-    "Bag Qty": 10,
-    "PS": 11.79,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "103": {
-    "Item #": "05150BB",
-    "Description": "6 5/8\" X 1\"   Ind. Gate Post Collar",
-    "Weight": "3.7 lbs",
-    "Bag Qty": 5,
-    "PS": 30.96,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "104": {
-    "Item #": "05142-HE",
-    "Description": "2 3/8\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "1.6 lbs",
-    "Bag Qty": 25,
-    "PS": 7.05,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "105": {
-    "Item #": "05144-HE",
-    "Description": "2 7/8\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "3.19 lbs",
-    "Bag Qty": 20,
-    "PS": 8.57,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "106": {
-    "Item #": "05146-HE",
-    "Description": "3 1/2\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "1.9 lbs",
-    "Bag Qty": 10,
-    "PS": 8.84,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "107": {
-    "Item #": "05147-HE",
-    "Description": "4 1/2\" X 3/4\"  Ind. Gate Post Collar",
-    "Weight": "2.62 lbs",
-    "Bag Qty": 10,
-    "PS": 11.79,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "108": {
-    "Item #": "05158-PS",
-    "Description": "1 5/8\" x 3/4\" Gate Frame Collar",
-    "Weight": "1.6 lbs",
-    "Bag Qty": 25,
-    "PS": 5.63,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "109": {
-    "Item #": "05172-XX",
-    "Description": "5/8\u201D X 6\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 0,
-    "AL": 4.99,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "110": {
-    "Item #": "05176-XX",
-    "Description": "5/8\u201D X 10\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": 0,
-    "AL": 5.48,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "111": {
-    "Item #": "05178-XX",
-    "Description": "5/8\u201D X 12\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": 0,
-    "AL": 6.42,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "112": {
-    "Item #": "05182-XX",
-    "Description": "3/4\u201D X 6\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": 4.48,
-    "AL": 4.85,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "113": {
-    "Item #": "05184-XX",
-    "Description": "3/4\u201D X 9\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 5.42,
-    "AL": 5.97,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "114": {
-    "Item #": "05188-XX",
-    "Description": "3/4\u201D X 12\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 7.2,
-    "AL": 7.35,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "115": {
-    "Item #": "05194-XX",
-    "Description": "1\u201D X 9\u201D Bolt",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 10.21,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 7"
-  },
-  "116": {
-    "Item #": "05210-PS",
-    "Description": "5/8\u201D X 4 1/2\u201D  Lag Screw",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 3.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "117": {
-    "Item #": "05212-PS",
-    "Description": "5/8\u201D X 6\u201D  Lag Screw",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 3.44,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "118": {
-    "Item #": "05200-PS",
-    "Description": "1/2\u201D x 4 1/2\u201D  Lag Screw",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "119": {
-    "Item #": "05222-PS",
-    "Description": "3/4\u201D X 6\u201D  Lag Screw",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 4.08,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "120": {
-    "Item #": "05010-PS",
-    "Description": "1 3/8\" X 1 3/8\"",
-    "Weight": ".8 lbs",
-    "Bag Qty": 25,
-    "PS": 3.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "121": {
-    "Item #": "05011-PS",
-    "Description": "1 3/8\u201D X 1 5/8\u201D",
-    "Weight": ".8 lbs",
-    "Bag Qty": 25,
-    "PS": 3.82,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "122": {
-    "Item #": "05012-XX",
-    "Description": "1 3/8\" X 1 7/8\"",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 4.02,
-    "AL": 0,
-    "BL": 4.5,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "123": {
-    "Item #": "05014-XX",
-    "Description": "1 3/8\" X 2 3/8\"",
-    "Weight": "1.1 lbs",
-    "Bag Qty": 25,
-    "PS": 5.18,
-    "AL": 0,
-    "BL": 5.48,
-    "MA": 9.87,
-    "Page": "FIT 8"
-  },
-  "124": {
-    "Item #": "05016-XX",
-    "Description": "1 3/8\" X 2 7/8\"",
-    "Weight": ".8 lbs",
-    "Bag Qty": 25,
-    "PS": 6.46,
-    "AL": 0,
-    "BL": 0,
-    "MA": 12.26,
-    "Page": "FIT 8"
-  },
-  "125": {
-    "Item #": "05017-PS",
-    "Description": "1 5/8\u201D X 1 7/8\u201D",
-    "Weight": "1.1 lbs",
-    "Bag Qty": 25,
-    "PS": 4.42,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "126": {
-    "Item #": "05018-XX",
-    "Description": "1 5/8\u201D X 2 3/8\u201D",
-    "Weight": "1.12 lbs",
-    "Bag Qty": 25,
-    "PS": 4.7,
-    "AL": 0,
-    "BL": 5.19,
-    "MA": 6.94,
-    "Page": "FIT 8"
-  },
-  "127": {
-    "Item #": "05020-XX",
-    "Description": "1 5/8\u201D X 2 7/8\u201D",
-    "Weight": "1.5 lbs",
-    "Bag Qty": 25,
-    "PS": 4.99,
-    "AL": 0,
-    "BL": 5.48,
-    "MA": 9.68,
-    "Page": "FIT 8"
-  },
-  "128": {
-    "Item #": "05022-XX",
-    "Description": "1 5/8\u201D X 3 1/2\u201D",
-    "Weight": "1.8 lbs",
-    "Bag Qty": 25,
-    "PS": 5.92,
-    "AL": 0,
-    "BL": 7.44,
-    "MA": 9.94,
-    "Page": "FIT 8"
-  },
-  "129": {
-    "Item #": "05002-PS",
-    "Description": "1 3/8\u201D Two piece collar for fork latch",
-    "Weight": ".4 lbs",
-    "Bag Qty": 100,
-    "PS": 1.74,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "130": {
-    "Item #": "05003-PS",
-    "Description": "1 5/8\u201D Two piece collar for fork latch",
-    "Weight": ".6 lbs",
-    "Bag Qty": 100,
-    "PS": 2.01,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "131": {
-    "Item #": "05004-PS",
-    "Description": "Gate Forks 1 3/8\u201D  for collars",
-    "Weight": ".4 lbs",
-    "Bag Qty": 100,
-    "PS": 1.46,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "132": {
-    "Item #": "05005-PS",
-    "Description": "Gate Forks 1 5/8\u201D  for collars",
-    "Weight": ".6 lbs",
-    "Bag Qty": 100,
-    "PS": 2.62,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "133": {
-    "Item #": "05006-PS",
-    "Description": "Gate Forks 1 7/8\u201D  for collars",
-    "Weight": ".8 lbs",
-    "Bag Qty": 100,
-    "PS": 1.82,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "134": {
-    "Item #": "05007-PS",
-    "Description": "Gate Forks 2 3/8\u201D  for collars",
-    "Weight": "1 lbs",
-    "Bag Qty": 100,
-    "PS": 2.01,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "135": {
-    "Item #": "05009-PS",
-    "Description": "Flat Back Bracket",
-    "Weight": "1 lbs",
-    "Bag Qty": 50,
-    "PS": 2.01,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 8"
-  },
-  "136": {
-    "Item #": "05000-PS",
-    "Description": "Flat Back with 1 3/8\u201D Fork",
-    "Weight": "1.2 lbs",
-    "Bag Qty": 100,
-    "PS": 3.9,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 9"
-  },
-  "137": {
-    "Item #": 18660,
-    "Description": "Kiwi Latch",
-    "Weight": ".3 lbs",
-    "Bag Qty": "Each",
-    "PS": 10.8,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 9"
-  },
-  "138": {
-    "Item #": "05030-PS",
-    "Description": "1 5/8\"  Rolo Latch w/o Bands",
-    "Weight": "2.1 lbs",
-    "Bag Qty": 25,
-    "PS": 9.39,
-    "AL": 0
-  },
-  "139": {
-    "Item #": "05040-MA",
-    "Description": "1 5/8\"  Drop Latch Catch",
-    "Weight": "1.16 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "140": {
-    "Item #": "05042-MA",
-    "Description": "1 7/8\"  Drop Latch Catch",
-    "Weight": "1.45 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "141": {
-    "Item #": "05044-MA",
-    "Description": "2 3/8\"  Drop Latch Catch",
-    "Weight": "1.7 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "142": {
-    "Item #": "05046-MA",
-    "Description": "2 7/8\"  Drop Latch Catch",
-    "Weight": "2 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "143": {
-    "Item #": "05048-MA",
-    "Description": "3 1/2\"  Drop Latch Catch",
-    "Weight": "2.3 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "144": {
-    "Item #": "05052-MA",
-    "Description": "1 5/8\"  Drop Latch",
-    "Weight": "1.16 lbs",
-    "Bag Qty": 25,
-    "PS": 0,
-    "AL": 0
-  },
-  "145": {
-    "Item #": "05070-PS",
-    "Description": "1 3/8\" X 1 7/8\"",
-    "Weight": "1.15 lbs",
-    "Bag Qty": 25,
-    "PS": 5.67,
-    "AL": 0
-  },
-  "146": {
-    "Item #": "05072-PS",
-    "Description": "1 3/8\" X 2 3/8\"",
-    "Weight": "1.25 lbs",
-    "Bag Qty": 25,
-    "PS": 5.73,
-    "AL": 0
-  },
-  "147": {
-    "Item #": "05076-PS",
-    "Description": "1 3/8\"  Flat Back",
-    "Weight": ".6 lbs",
-    "Bag Qty": 25,
-    "PS": 3.79,
-    "AL": 0
-  },
-  "148": {
-    "Item #": "05088-PS",
-    "Description": "Kennel Latch",
-    "Weight": ".8 lbs",
-    "Bag Qty": 50,
-    "PS": 3.96,
-    "AL": 0
-  },
-  "149": {
-    "Item #": "05090-MA",
-    "Description": "1 5/8\" Frame Assembly",
-    "Weight": "2.8 lbs",
-    "Bag Qty": 10,
-    "PS": 0,
-    "AL": 0
-  },
-  "150": {
-    "Item #": "05060-BL",
-    "Description": "1 3/8\" X 1 7/8\" Push Down Gate Latch",
-    "Weight": "3 lbs",
-    "Bag Qty": 1,
-    "PS": 0,
-    "AL": 0
-  },
-  "151": {
-    "Item #": "05062-BL",
-    "Description": "1 3/8\" X 2 3/8\" Push Down Gate Latch",
-    "Weight": "3.5 lbs",
-    "Bag Qty": 1,
-    "PS": 0,
-    "AL": 0
-  },
-  "152": {
-    "Item #": "05084-PS",
-    "Description": "Drop Pin Latch Assembly",
-    "Weight": "1.2 lbs",
-    "Bag Qty": 25,
-    "PS": 5.48,
-    "AL": 0
-  },
-  "153": {
-    "Item #": "05092-PS",
-    "Description": "Ind. Drop Rod (Forks Only) 1 5/8\u201D",
-    "Weight": ".5 lbs",
-    "Bag Qty": 25,
-    "PS": 9.42,
-    "AL": 0
-  },
-  "154": {
-    "Item #": "05750-XX",
-    "Description": "1 5/8\" or 1 7/8\"  Gate Keeper",
-    "Weight": "1.15 lbs",
-    "Bag Qty": 20,
-    "PS": 7.39,
-    "AL": 0
-  },
-  "155": {
-    "Item #": "05754-MA",
-    "Description": "1 3/8\"  Drive In Plug",
-    "Weight": ".15 lbs",
-    "Bag Qty": 200,
-    "PS": 0,
-    "AL": 0
-  },
-  "156": {
-    "Item #": "05756-MA",
-    "Description": "1 5/8\"  Drive In Plug",
-    "Weight": ".25 lbs",
-    "Bag Qty": 200,
-    "PS": 0,
-    "AL": 0
-  },
-  "157": {
-    "Item #": "05758-MA",
-    "Description": "1 7/8\"  Drive In Plug",
-    "Weight": ".35 lbs",
-    "Bag Qty": 200,
-    "PS": 0,
-    "AL": 0
-  },
-  "158": {
-    "Item #": "05760-XX",
-    "Description": "1 3/8\" C TYPE  Gate Clip",
-    "Weight": ".11 lbs",
-    "Bag Qty": 250,
-    "PS": 0.37,
-    "AL": 0
-  },
-  "159": {
-    "Item #": "05762-PS",
-    "Description": "1 3/8\" L TYPE  Gate Clip",
-    "Weight": ".11 lbs",
-    "Bag Qty": 250,
-    "PS": 0.37,
-    "AL": 0
-  },
-  "160": {
-    "Item #": "05764-PS",
-    "Description": "1 5/8\" C TYPE  Gate Clip",
-    "Weight": ".11 lbs",
-    "Bag Qty": 250,
-    "PS": 0.39,
-    "AL": 0
-  },
-  "161": {
-    "Item #": "05700-XX",
-    "Description": "1 5/8\" x 5\"",
-    "Weight": "4.92 lbs",
-    "Bag Qty": 4,
-    "PS": 17.84,
-    "AL": 0
-  },
-  "162": {
-    "Item #": "05710-XX",
-    "Description": "1 5/8\" or 1 7/8\" X 1 5/8\"",
-    "Weight": "2.4 lbs",
-    "Bag Qty": 20,
-    "PS": 8.92,
-    "AL": 0
-  },
-  "163": {
-    "Item #": "05712-XX",
-    "Description": "2 3/8\" or 2 7/8\" X 1 5/8\"",
-    "Weight": "2.5 lbs",
-    "Bag Qty": 20,
-    "PS": 9.26,
-    "AL": 0
-  },
-  "164": {
-    "Item #": "05716-PS",
-    "Description": "3 1/2\" X 1 5/8\"",
-    "Weight": "2.8 lbs",
-    "Bag Qty": 20,
-    "PS": 12.47,
-    "AL": 0
-  },
-  "165": {
-    "Item #": "05718-PS",
-    "Description": "1 5/8\"  Flat Back Line Bracket",
-    "Weight": "1.82 lbs",
-    "Bag Qty": 20,
-    "PS": 6.86,
-    "AL": 0
-  },
-  "166": {
-    "Item #": "05732-XX",
-    "Description": "3 1/2\" X 2 3/8\" or 1 7/8\"",
-    "Weight": "16.3 lbs",
-    "Bag Qty": 4,
-    "PS": 0,
-    "AL": 0
-  },
-  "167": {
-    "Item #": "05734-XX",
-    "Description": "4 1/2\" X 2 3/8\" or 1 7/8\"",
-    "Weight": "16.3 lbs",
-    "Bag Qty": 4,
-    "PS": 0,
-    "AL": 0
-  },
-  "168": {
-    "Item #": "05800-PS",
-    "Description": "6\"  Rubber Tired Wheel",
-    "Weight": "1.95 lbs",
-    "Bag Qty": 10,
-    "PS": 9.68,
-    "AL": 0
-  },
-  "169": {
-    "Item #": "05802-PS",
-    "Description": "8\"  Rubber Tired Wheel",
-    "Weight": "2.95 lbs",
-    "Bag Qty": 10,
-    "PS": 9.98,
-    "AL": 0
-  },
-  "170": {
-    "Item #": "05804-PS",
-    "Description": "10\"  Rubber Tired Wheel",
-    "Weight": "1.95 lbs",
-    "Bag Qty": 5,
-    "PS": 24.73,
-    "AL": 0
-  },
-  "171": {
-    "Item #": "05820-PS",
-    "Description": "Fits 1 3/8\" Frame",
-    "Weight": "4.65 lbs",
-    "Bag Qty": 4,
-    "PS": 17.72,
-    "AL": 0
-  },
-  "172": {
-    "Item #": "05822-PS",
-    "Description": "Fits 1 5/8\" Frame",
-    "Weight": "4.75 lbs",
-    "Bag Qty": 4,
-    "PS": 18.01,
-    "AL": 0
-  },
-  "173": {
-    "Item #": "05824-PS",
-    "Description": "1 5/8\" X 1 7/8\"  Single Wheel",
-    "Weight": "2.81 lbs",
-    "Bag Qty": 4,
-    "PS": 32.47,
-    "AL": 0
-  },
-  "174": {
-    "Item #": "05832-PS",
-    "Description": "1 5/8\" Frame 8\" Wheel",
-    "Weight": "7 lbs",
-    "Bag Qty": 4,
-    "PS": 28.14,
-    "AL": 0
-  },
-  "175": {
-    "Item #": "05842-PS",
-    "Description": "1 5/8\" or 1 7/8\" (12\" x 8\")",
-    "Weight": "11.5 lbs",
-    "Bag Qty": 1,
-    "PS": 39.73,
-    "AL": 0
-  },
-  "176": {
-    "Item #": "05852-PS",
-    "Description": "1 5/8\" Frame, 10\"(12\")",
-    "Weight": "14.1 lbs",
-    "Bag Qty": 1,
-    "PS": 60.67,
-    "AL": 0
-  },
-  "177": {
-    "Item #": "04303-PS",
-    "Description": "1 5/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
-    "Weight": "1.2 lbs",
-    "Bag Qty": 25,
-    "PS": 5.31,
-    "AL": 0
-  },
-  "178": {
-    "Item #": "04300-PS",
-    "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
-    "Weight": "1.24 lbs",
-    "Bag Qty": 25,
-    "PS": 5.38,
-    "AL": 0
-  },
-  "179": {
-    "Item #": "04302-PS",
-    "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
-    "Weight": "1.6 lbs",
-    "Bag Qty": 25,
-    "PS": 5.76,
-    "AL": 0
-  },
-  "180": {
-    "Item #": "04311-PS",
-    "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
-    "Weight": "1.54 lbs",
-    "Bag Qty": 25,
-    "PS": 6.16,
-    "AL": 0
-  },
-  "181": {
-    "Item #": "04312-PS",
-    "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
-    "Weight": "1.65 lbs",
-    "Bag Qty": 25,
-    "PS": 6.76,
-    "AL": 0
-  },
-  "182": {
-    "Item #": "04313-PS",
-    "Description": "2 7/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
-    "Weight": "1.8 lbs",
-    "Bag Qty": 25,
-    "PS": 6.97,
-    "AL": 0
-  },
-  "183": {
-    "Item #": "04321-PS",
-    "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
-    "Weight": "2.07 lbs",
-    "Bag Qty": 25,
-    "PS": 14.26,
-    "AL": 0
-  },
-  "184": {
-    "Item #": "04322-PS",
-    "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
-    "Weight": "2.2 lbs",
-    "Bag Qty": 25,
-    "PS": 16.42,
-    "AL": 0
-  },
-  "185": {
-    "Item #": "04323-PS",
-    "Description": "2 7/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
-    "Weight": "3.3 lbs",
-    "Bag Qty": 25,
-    "PS": 18.89,
-    "AL": 0
-  },
-  "186": {
-    "Item #": "04330-PS",
-    "Description": "2 3/8\u201D Corner Barb Arm- 45 Deg.",
-    "Weight": "3 lbs",
-    "Bag Qty": 25,
-    "PS": 15.06,
-    "AL": 0
-  },
-  "187": {
-    "Item #": "04331-PS",
-    "Description": "2 7/8\u201D Corner Barb Arm- 45 Deg.",
-    "Weight": "3.5 lbs",
-    "Bag Qty": 25,
-    "PS": 18.37,
-    "AL": 0
-  },
-  "188": {
-    "Item #": "04332-PS",
-    "Description": "3 1/2\u201D Corner Barb Arm- 45 Deg.",
-    "Weight": "3.7 lbs",
-    "Bag Qty": 25,
-    "PS": 18.37,
-    "AL": 0
-  },
-  "189": {
-    "Item #": "04340-PS",
-    "Description": "2 3/8\u201D Corner Barb Arm- \"V\"",
-    "Weight": "6 lbs",
-    "Bag Qty": 25,
-    "PS": 16.42,
-    "AL": 0
-  },
-  "190": {
-    "Item #": "04341-PS",
-    "Description": "2 7/8\u201D Corner Barb Arm- \"V\"",
-    "Weight": "6.15 lbs",
-    "Bag Qty": 25,
-    "PS": 19.88,
-    "AL": 0
-  },
-  "191": {
-    "Item #": "04342-PS",
-    "Description": "3 1/2\u201D Corner Barb Arm- \"V\"",
-    "Weight": "6.3 lbs",
-    "Bag Qty": 25,
-    "PS": 21.51,
-    "AL": 0
-  },
-  "192": {
-    "Item #": "04343-PS",
-    "Description": "4 1/2\u201D Corner Barb Arm- \"V\"",
-    "Weight": "6.6 lbs",
-    "Bag Qty": 25,
-    "PS": 25.85,
-    "AL": 0
-  },
-  "193": {
-    "Item #": "04350-PS",
-    "Description": "1 7/8\" X 1 5/8\" Barb Arm Base",
-    "Weight": "1.23 lbs",
-    "Bag Qty": 25,
-    "PS": 5.22,
-    "AL": 0
-  },
-  "194": {
-    "Item #": "04351-PS",
-    "Description": "2 3/8\" X 1 5/8\" Barb Arm Base",
-    "Weight": "1.41 lbs",
-    "Bag Qty": 25,
-    "PS": 5.97,
-    "AL": 0
-  },
-  "195": {
-    "Item #": "04352-PS",
-    "Description": "2 7/8\" X 1 5/8\" Barb Arm Base",
-    "Weight": "1.76 lbs",
-    "Bag Qty": 25,
-    "PS": 7.83,
-    "AL": 0
-  },
-  "196": {
-    "Item #": "04362-PS",
-    "Description": "S - Slot Barb Arm",
-    "Weight": ".75 lbs",
-    "Bag Qty": 25,
-    "PS": 4.48,
-    "AL": 0
-  },
-  "197": {
-    "Item #": "04360-PS",
-    "Description": "V Barb Ext Arm (Notched)",
-    "Weight": ".8 lbs",
-    "Bag Qty": 25,
-    "PS": 4.48,
-    "AL": 0
-  },
-  "198": {
-    "Item #": "04408-PS",
-    "Description": "1 7/8\" x 6\" Adj. Wood-Steel Adaptor",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 6.03,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 16"
-  },
-  "199": {
-    "Item #": "04409-PS",
-    "Description": "2 3/8\" x 6\" Adj. Adapters - Line Post",
-    "Weight": "4.5 lbs",
-    "Bag Qty": 25,
-    "PS": 6.83,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 16"
-  },
-  "200": {
-    "Item #": "04412-PS",
-    "Description": "2 7/8\" x 8\" Adj. Wood-Steel Adaptor",
-    "Weight": ".68 lbs",
-    "Bag Qty": 25,
-    "PS": 9.64,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 16"
-  },
-  "201": {
-    "Item #": "04411-PS",
-    "Description": "2 3/8\" x 6\" Adj. Adaptor - Corner Post",
-    "Weight": "4.51 lbs",
-    "Bag Qty": 25,
-    "PS": 6.92,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "202": {
-    "Item #": "04420-PS",
-    "Description": "1 7/8\" Corner Wood Brackets",
-    "Weight": ".75 lbs",
-    "Bag Qty": 25,
-    "PS": 8.29,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "203": {
-    "Item #": "04430-PS",
-    "Description": "2 3/8\" X 1 5/8\"  End Clamp - Wood",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 8.51,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "204": {
-    "Item #": "04432-PS",
-    "Description": "2 7/8\" X 1 5/8\"  End Clamp - Wood",
-    "Weight": "1 lbs",
-    "Bag Qty": 25,
-    "PS": 9.98,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "205": {
-    "Item #": "06000-XX",
-    "Description": "6 1/2\" Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0,
-    "AL": 0.12,
-    "BL": 0.14,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "206": {
-    "Item #": "06000-PS",
-    "Description": "6 1/4\u201D Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.14,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "207": {
-    "Item #": "06002-XX",
-    "Description": "7 1/2\" Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0,
-    "AL": 0.14,
-    "BL": 0.15,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "208": {
-    "Item #": "06004-XX",
-    "Description": "8 1/4\"  Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0,
-    "AL": 0.16,
-    "BL": 0.15,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "209": {
-    "Item #": "06006-AL",
-    "Description": "10 1/2\"  Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0,
-    "AL": 0.23,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "210": {
-    "Item #": "06008-PS",
-    "Description": "8\" Loop Tie Wires",
-    "Weight": ".01 lbs",
-    "Bag Qty": 2500,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "211": {
-    "Item #": "06030-AL",
-    "Description": "9 Ga.  - Individual Bag",
-    "Weight": "1 lbs",
-    "Bag Qty": 260,
-    "PS": 0,
-    "AL": 9.5,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "212": {
-    "Item #": "06030-BL",
-    "Description": "9 Ga. - Individual Bag",
-    "Weight": "1 lbs",
-    "Bag Qty": 220,
-    "PS": 0,
-    "AL": 0,
-    "BL": 6.16,
-    "MA": 0,
-    "Page": "FIT 17"
-  },
-  "213": {
-    "Item #": "06050-GA",
-    "Description": "11 Ga.  Bottom Wire",
-    "Weight": ".03 lbs",
-    "Bag Qty": "/Foot",
-    "PS": 0,
-    "AL": 0.07,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "214": {
-    "Item #": "06052-XX",
-    "Description": "9 Ga.  Bottom Wire",
-    "Weight": ".03 lbs",
-    "Bag Qty": "/Foot",
-    "PS": 0,
-    "AL": 0.14,
-    "BL": 0.14,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "215": {
-    "Item #": "06056-XX",
-    "Description": "6 Ga.  Bottom Wire",
-    "Weight": ".1 lbs",
-    "Bag Qty": "/Foot",
-    "PS": 0,
-    "AL": 0.21,
-    "BL": 0.21,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "216": {
-    "Item #": "06090-XX",
-    "Description": "5/16\" X 1 1/4\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.19,
-    "AL": 0,
-    "BL": 0.32,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "217": {
-    "Item #": "06098-PS",
-    "Description": "5/16\" X 2 1/2\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": "CALL",
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "218": {
-    "Item #": "06070-XX",
-    "Description": "3/8\"  X 2\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.33,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "219": {
-    "Item #": "06072-XX",
-    "Description": "3/8\" X 2 1/4\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.39,
-    "AL": 0,
-    "BL": 0.39,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "220": {
-    "Item #": "06074-XX",
-    "Description": "3/8\"  X 2 1/2\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.39,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "221": {
-    "Item #": "06078-XX",
-    "Description": "3/8\"  X 3\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.41,
-    "AL": 0,
-    "BL": 0.46,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "222": {
-    "Item #": "06082-PS",
-    "Description": "3/8\"  X 3 1/2\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.41,
-    "AL": 0,
-    "BL": 0.46,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "223": {
-    "Item #": "06086-PS",
-    "Description": "3/8\"  X 4\"  Carriage Bolt",
-    "Weight": ".01 lbs",
-    "Bag Qty": 100,
-    "PS": 0.49,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "224": {
-    "Item #": "06122-PS",
-    "Description": "3\" X 6\" X 1/4\"  Base Plate",
-    "Weight": "1.15 lbs",
-    "Bag Qty": 25,
-    "PS": 3.31,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "225": {
-    "Item #": "06130-PS",
-    "Description": "4\" X 4\" X 1/4\"  Base Plate",
-    "Weight": "1.16 lbs",
-    "Bag Qty": 25,
-    "PS": 2.92,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "226": {
-    "Item #": "06132-PS",
-    "Description": "4\" X 6\" X 1/4\"  Base Plate",
-    "Weight": "1.5 lbs",
-    "Bag Qty": 25,
-    "PS": 4.48,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "227": {
-    "Item #": "06134-PS",
-    "Description": "6\" X 6\" X 1/4\"  Base Plate",
-    "Weight": "2.3 lbs",
-    "Bag Qty": 25,
-    "PS": 6.93,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "228": {
-    "Item #": "06136-PS",
-    "Description": "8\" X 8\" X 1/4\"  Base Plate",
-    "Weight": "4.25 lbs",
-    "Bag Qty": 10,
-    "PS": 14.52,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "229": {
-    "Item #": "06150-PS",
-    "Description": "4\" X 4\" X 1/2\"  Base Plate",
-    "Weight": "4.6 lbs",
-    "Bag Qty": 20,
-    "PS": 7.55,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "230": {
-    "Item #": "06152-PS",
-    "Description": "6\" X 6\" X 1/2\"  Base Plate",
-    "Weight": "7 lbs",
-    "Bag Qty": 10,
-    "PS": 16.49,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "231": {
-    "Item #": "06154-PS",
-    "Description": "8\" X 8\" X 1/2\"  Base Plate",
-    "Weight": "8 lbs",
-    "Bag Qty": 10,
-    "PS": 29.53,
-    "AL": 0,
-    "BL": 0,
-    "MA": 0,
-    "Page": "FIT 18"
-  },
-  "232": {
-    "Item #": "06176-PS",
-    "Description": "1/2\" X 2 3/4\"  Anchor Bolt",
-    "Weight": ".5 lbs",
-    "Bag Qty": 25,
-    "PS": 2.06,
-    "AL": 0
-  },
-  "233": {
-    "Item #": "06178-PS",
-    "Description": "1/2\" X 3 3/4\"  Anchor Bolt",
-    "Weight": ".5 lbs",
-    "Bag Qty": 25,
-    "PS": 2.22,
-    "AL": 0
-  },
-  "234": {
-    "Item #": "05778-PS",
-    "Description": "Weld On Lugg",
-    "Weight": ".1 lbs",
-    "Bag Qty": 100,
-    "PS": 4.94,
-    "AL": 0
-  },
-  "235": {
-    "Item #": "06200-GA",
-    "Description": "15 1/2 Ga. Class 3 HT Barbed Wire",
-    "Weight": "37 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 88.87,
-    "AL": 0
-  },
-  "236": {
-    "Item #": "06202-GA",
-    "Description": "12 1/2 Ga. Barbless Barbed Wire",
-    "Weight": "70 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 138.61,
-    "AL": 0
-  },
-  "237": {
-    "Item #": "06204-GA",
-    "Description": "12 1/2 Ga. Canadian Standard",
-    "Weight": "80 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 130.28,
-    "AL": 0
-  },
-  "238": {
-    "Item #": "06206-XX",
-    "Description": "12 1/2 Ga. Class 3 Barbed Wire",
-    "Weight": "81 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 150.15,
-    "AL": 0
-  },
-  "239": {
-    "Item #": "06203-GA",
-    "Description": "12 1/2 Ga. CDN Standard - 660 FT/Roll",
-    "Weight": "40 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 82.5,
-    "AL": 0
-  },
-  "240": {
-    "Item #": "06204IMP",
-    "Description": "12 1/2 Ga. CDN Standard IMPORT",
-    "Weight": "80 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 94.32,
-    "AL": 0
-  },
-  "241": {
-    "Item #": "06206IMP",
-    "Description": "12 1/2 Ga. Class 3 IMPORT",
-    "Weight": "81 lbs",
-    "Bag Qty": "27/Skid",
-    "PS": 109.33,
-    "AL": 0
-  },
-  "242": {
-    "Item #": "06210-PS",
-    "Description": "18\u201D Diameter - 50FT Rolls",
-    "Weight": "40 lbs",
-    "Bag Qty": "5/Box",
-    "PS": 121.58,
-    "AL": 0
-  },
-  "243": {
-    "Item #": "06271-PS",
-    "Description": "Chain Link Hanger",
-    "Weight": "1 lbs",
-    "Bag Qty": "Each",
-    "PS": 4.1,
-    "AL": 0
-  },
-  "244": {
-    "Item #": "06272-PS",
-    "Description": "3/8\" x 6\" Zinc Plated Eye-to-Eye",
-    "Weight": ".5 lbs",
-    "Bag Qty": "Each",
-    "PS": 7.55,
-    "AL": 0
-  },
-  "245": {
-    "Item #": "05770-PS",
-    "Description": "18\"  Gate Scroll (Galv)",
-    "Weight": "1.25 lbs",
-    "Bag Qty": 50,
-    "PS": 3.15,
-    "AL": 0
-  },
-  "246": {
-    "Item #": "05772-PS",
-    "Description": "24\"  Gate Scroll (Galv.)",
-    "Weight": "1.25 lbs",
-    "Bag Qty": 50,
-    "PS": 3.43,
-    "AL": 0
-  },
-  "247": {
-    "Item #": "06290-PS",
-    "Description": "1 Hole Lock Box - 2 1/8\" Hole",
-    "Weight": "3 lbs",
-    "Bag Qty": "Each",
-    "PS": 46.64,
-    "AL": 0
-  },
-  "248": {
-    "Item #": "06294-BZ",
-    "Description": "12.5 Oz.  Zinc Primer",
-    "Weight": "1 lbs",
-    "Bag Qty": "Each",
-    "PS": 26.63,
-    "AL": 0
-  },
-  "249": {
-    "Item #": "06296-BL",
-    "Description": "16 oz. Cold Galv. Spray Paint",
-    "Weight": "1 lbs",
-    "Bag Qty": "Each",
-    "PS": 0,
-    "AL": 0
-  },
-  "250": {
-    "Item #": 6291,
-    "Description": "Concrete Mix - 60 lbs Bag",
-    "Weight": "60 lbs",
-    "Bag Qty": "Each",
-    "PS": 10.07,
-    "AL": 0
-  },
-  "251": {
-    "Item #": "06293-QS",
-    "Description": "Quickrete Cement - 94 lbs Bag",
-    "Weight": "94 lbs",
-    "Bag Qty": "Each",
-    "PS": 30.72,
-    "AL": 0
-  },
-  "252": {
-    "Item #": "07500-XX",
-    "Description": "36\"  Bottom-Lock",
-    "Weight": "5 lbs",
-    "Bag Qty": 49.81,
-    "PS": "FIT 21"
-  },
-  "253": {
-    "Item #": "07501-XX",
-    "Description": "42\"  Bottom-Lock",
-    "Weight": "6 lbs",
-    "Bag Qty": 52.3,
-    "PS": "FIT 21"
-  },
-  "254": {
-    "Item #": "07502-XX",
-    "Description": "48\"  Bottom-Lock",
-    "Weight": "8 lbs",
-    "Bag Qty": 58.07,
-    "PS": "FIT 21"
-  },
-  "255": {
-    "Item #": "07503-XX",
-    "Description": "60\"  Bottom-Lock",
-    "Weight": "10 lbs",
-    "Bag Qty": 67.24,
-    "PS": "FIT 21"
-  },
-  "256": {
-    "Item #": "07504-XX",
-    "Description": "72\"  Bottom-Lock",
-    "Weight": "12 lbs",
-    "Bag Qty": 79.7,
-    "PS": "FIT 21"
-  },
-  "257": {
-    "Item #": "07505-XX",
-    "Description": "84\"  Bottom-Lock",
-    "Weight": "15 lbs",
-    "Bag Qty": 94.64,
-    "PS": "FIT 21"
-  },
-  "258": {
-    "Item #": "07506-XX",
-    "Description": "96\"  Bottom-Lock",
-    "Weight": "21 lbs",
-    "Bag Qty": 104.59,
-    "PS": "FIT 21"
-  },
-  "259": {
-    "Item #": "07507-XX",
-    "Description": "120\"  Bottom-Lock",
-    "Weight": "26 lbs",
-    "Bag Qty": 136.97,
-    "PS": "FIT 21"
-  },
-  "260": {
-    "Item #": "07508-XX",
-    "Description": "144\"  Bottom-Lock",
-    "Weight": "28 lbs",
-    "Bag Qty": 161.88,
-    "PS": "FIT 21"
-  },
-  "261": {
-    "Item #": "07520-XX",
-    "Description": "36\"  Lite-Link",
-    "Weight": "5 lbs",
-    "Bag Qty": 38.02,
-    "PS": "FIT 21"
-  },
-  "262": {
-    "Item #": "07521-XX",
-    "Description": "42\" Lite-Link",
-    "Weight": "6 lbs",
-    "Bag Qty": 43.07,
-    "PS": "FIT 21"
-  },
-  "263": {
-    "Item #": "07522-XX",
-    "Description": "48\" Lite-Link",
-    "Weight": "8 lbs",
-    "Bag Qty": 46.75,
-    "PS": "FIT 21"
-  },
-  "264": {
-    "Item #": "07523-XX",
-    "Description": "60\" Lite-Link",
-    "Weight": "10 lbs",
-    "Bag Qty": 55.69,
-    "PS": "FIT 21"
-  },
-  "265": {
-    "Item #": "07524-XX",
-    "Description": "72\" Lite-Link",
-    "Weight": "12 lbs",
-    "Bag Qty": 68.22,
-    "PS": "FIT 21"
-  },
-  "266": {
-    "Item #": "07525-XX",
-    "Description": "84\" Lite-Link",
-    "Weight": "15 lbs",
-    "Bag Qty": 76.02,
-    "PS": "FIT 21"
-  },
-  "267": {
-    "Item #": "07526-XX",
-    "Description": "96\"  Lite-Link",
-    "Weight": "21 lbs",
-    "Bag Qty": 91.21,
-    "PS": "FIT 21"
-  },
-  "268": {
-    "Item #": "07560-XX",
-    "Description": "36\" Winged",
-    "Weight": "5 lbs",
-    "Bag Qty": 69.27,
-    "PS": "FIT 21"
-  },
-  "269": {
-    "Item #": "07561-XX",
-    "Description": "42\"  Winged",
-    "Weight": "6 lbs",
-    "Bag Qty": 79.02,
-    "PS": "FIT 21"
-  },
-  "270": {
-    "Item #": "07562-XX",
-    "Description": "48\"  Winged",
-    "Weight": "8 lbs",
-    "Bag Qty": 80.14,
-    "PS": "FIT 21"
-  },
-  "271": {
-    "Item #": "07563X-X",
-    "Description": "60\"  Winged",
-    "Weight": "10 lbs",
-    "Bag Qty": 98.78,
-    "PS": "FIT 21"
-  },
-  "272": {
-    "Item #": "07564-XX",
-    "Description": "72\" Winged",
-    "Weight": "12 lbs",
-    "Bag Qty": 118.52,
-    "PS": "FIT 21"
-  },
-  "273": {
-    "Item #": "07565-XX",
-    "Description": "84\"  Winged",
-    "Weight": "15 lbs",
-    "Bag Qty": 138.38,
-    "PS": "FIT 21"
-  },
-  "274": {
-    "Item #": "07566-XX",
-    "Description": "96\" Winged",
-    "Weight": "21 lbs",
-    "Bag Qty": 158.13,
-    "PS": "FIT 21"
-  },
-  "275": {
-    "Item #": "07540-XX",
-    "Description": "36\" Fin-Link",
-    "Weight": "5 lbs",
-    "Bag Qty": 73.83,
-    "PS": "FIT 22"
-  },
-  "276": {
-    "Item #": "07541-XX",
-    "Description": "42\"  Fin-Link",
-    "Weight": "6 lbs",
-    "Bag Qty": 86.65,
-    "PS": "FIT 22"
-  },
-  "277": {
-    "Item #": "07542-XX",
-    "Description": "48\"  Fin-Link",
-    "Weight": "8 lbs",
-    "Bag Qty": 95.26,
-    "PS": "FIT 22"
-  },
-  "278": {
-    "Item #": "07543-XX",
-    "Description": "60\" Fin-Link",
-    "Weight": "10 lbs",
-    "Bag Qty": 105.39,
-    "PS": "FIT 22"
-  },
-  "279": {
-    "Item #": "07544-XX",
-    "Description": "72\" Fin-Link",
-    "Weight": "12 lbs",
-    "Bag Qty": 126.51,
-    "PS": "FIT 22"
-  },
-  "280": {
-    "Item #": "07545-XX",
-    "Description": "84\"  Fin-Link",
-    "Weight": "15 lbs",
-    "Bag Qty": 147.57,
-    "PS": "FIT 22"
-  },
-  "281": {
-    "Item #": "07546-XX",
-    "Description": "96\" Fin-Link",
-    "Weight": "21 lbs",
-    "Bag Qty": 176.17,
-    "PS": "FIT 22"
-  },
-  "282": {
-    "Item #": 7600,
-    "Description": "48\"  Hedge-Link",
-    "Weight": "8 lbs",
-    "Bag Qty": 182.96,
-    "PS": "FIT 22"
-  },
-  "283": {
-    "Item #": 7601,
-    "Description": "60\"  Hedge-Link",
-    "Weight": "10 lbs",
-    "Bag Qty": 232.53,
-    "PS": "FIT 22"
-  },
-  "284": {
-    "Item #": 7602,
-    "Description": "72\" Hedge-Link",
-    "Weight": "12 lbs",
-    "Bag Qty": 274.5,
-    "PS": "FIT 22"
-  },
-  "285": {
-    "Item #": 7603,
-    "Description": "84\"  Hedge-Link",
-    "Weight": "15 lbs",
-    "Bag Qty": 312.59,
-    "PS": "FIT 22"
-  },
-  "286": {
-    "Item #": 7604,
-    "Description": "96\"  Hedge-Link",
-    "Weight": "21 lbs",
-    "Bag Qty": 358.32,
-    "PS": "FIT 22"
-  },
-  "287": { "Item #": 10002, "AL": 1 },
-  "288": { "Item #": 10011, "AL": 1 },
-  "289": { "Item #": 10010, "AL": 1 },
-  "290": { "Item #": "10074SP", "AL": 1 },
-  "291": { "Item #": "10054SP", "AL": 1 },
-  "292": { "Item #": "05080BL", "AL": 1 },
-  "293": { "Item #": "05079BL", "AL": 1 },
-  "294": { "Item #": 6252, "AL": "Each" },
-  "295": { "Item #": 6254, "AL": "Each" },
-  "296": { "Item #": 6258, "AL": "Each" },
-  "297": { "Item #": 6260, "AL": "Each" },
-  "298": { "Item #": 6262, "AL": "Each" },
-  "299": { "Item #": "06263SP", "AL": "Each" },
-  "300": { "Item #": 6266, "AL": "Each" },
-  "301": { "Item #": 6268, "AL": "Each" },
-  "302": { "Item #": 6270, "AL": "Each" },
-  "303": { "Item #": 6256, "AL": "Each" },
-  "304": { "Item #": "04600PS", "AL": "Each" },
-  "305": { "Item #": "04602PS", "AL": "Each" },
-  "306": { "Item #": "04604PS", "AL": "Each" },
-  "307": { "Item #": "04606PS", "AL": "Each" },
-  "308": { "Item #": "04605PS", "AL": "Each" },
-  "309": { "Item #": "04510MA", "AL": 35 },
-  "310": { "Item #": "04512MA", "AL": 30 },
-  "311": { "Item #": "04520MA", "AL": 30 },
-  "312": { "Item #": "04522MA", "AL": 25 },
-  "313": { "Item #": "04530MA", "AL": 30 },
-  "314": { "Item #": "04532MA", "AL": 20 },
-  "315": { "Item #": "04534MA", "AL": 20 },
-  "316": { "Item #": "04536MA", "AL": 15 },
-  "317": { "Item #": "04538MA", "AL": 40 },
-  "318": { "Item #": "04539MA", "AL": 30 },
-  "319": { "Item #": "04540MA", "AL": 40 },
-  "320": { "Item #": "04542MA", "AL": 30 },
-  "321": { "Item #": "04550MA", "AL": 30 },
-  "322": { "Item #": "04552MA", "AL": 25 },
-  "323": { "Item #": "04554MA", "AL": 30 },
-  "324": { "Item #": "04556MA", "AL": 15 },
-  "325": { "Item #": "04560MA", "AL": 20 },
-  "326": { "Item #": "04562MA", "AL": 15 },
-  "327": { "Item #": "04570MA", "AL": 30 },
-  "328": { "Item #": "04572MA", "AL": 20 },
-  "329": { "Item #": "04580MA", "AL": 20 },
-  "330": { "Item #": "04582MA", "AL": 15 },
-  "331": { "Item #": "04610MA", "AL": 15 },
-  "332": { "Item #": "04612MA", "AL": 15 },
-  "333": { "Item #": "04636MA", "AL": 70 },
-  "334": { "Item #": "04620MA", "AL": 15 },
-  "335": { "Item #": "04622MA", "AL": 10 },
-  "336": { "Item #": "04624MA", "AL": 35 },
-  "337": { "Item #": "04626MA", "AL": 25 },
-  "338": { "Item #": "04628MA", "AL": 80 },
-  "339": { "Item #": "04630MA", "AL": 50 },
-  "340": { "Item #": "04632MA", "AL": 40 },
-  "341": { "Item #": "04634MA", "AL": 30 }
+  "tensionBands": [
+    {
+      "Item #": "04001-XX",
+      "Description": "1 3/8\"  Tension Band",
+      "Weight": ".14 lbs",
+      "Bag Qty": 250,
+      "PS": 0.49,
+      "AL": 0,
+      "BL": 0.68,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04002-XX",
+      "Description": "1 5/8\"  Tension Band",
+      "Weight": ".15 lbs",
+      "Bag Qty": 250,
+      "PS": 0.51,
+      "AL": 0,
+      "BL": 0.79,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04003-XX",
+      "Description": "1 7/8\"  Tension Band",
+      "Weight": ".16 lbs",
+      "Bag Qty": 250,
+      "PS": 0.61,
+      "AL": 0,
+      "BL": 0.82,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04004-XX",
+      "Description": "2 3/8\"  Tension Band",
+      "Weight": ".17 lbs",
+      "Bag Qty": 250,
+      "PS": 0.72,
+      "AL": 0,
+      "BL": 0.93,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04005-XX",
+      "Description": "2 7/8\"  Tension Band",
+      "Weight": ".22 lbs",
+      "Bag Qty": 100,
+      "PS": 0.79,
+      "AL": 0,
+      "BL": 1.03,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04006-XX",
+      "Description": "3 1/2\"  Tension Band",
+      "Weight": ".35 lbs",
+      "Bag Qty": 100,
+      "PS": 0.95,
+      "AL": 0,
+      "BL": 1.22,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04007-PS",
+      "Description": "4 1/2\"  Tension Band",
+      "Weight": ".36 lbs",
+      "Bag Qty": 100,
+      "PS": 1.17,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04008-PS",
+      "Description": "6 5/8\"  Tension Band",
+      "Weight": ".68 lbs",
+      "Bag Qty": 50,
+      "PS": 1.76,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 1"
+    }
+  ],
+  "braceBands": [
+    {
+      "Item #": "04020-XX",
+      "Description": "1 3/8\"  Brace Band",
+      "Weight": ".13 lbs",
+      "Bag Qty": 250,
+      "PS": 0.49,
+      "AL": 0,
+      "BL": 0.7,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04021-XX",
+      "Description": "1 5/8\"  Brace Band",
+      "Weight": ".15 lbs",
+      "Bag Qty": 250,
+      "PS": 0.53,
+      "AL": 0,
+      "BL": 0.82,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04022-XX",
+      "Description": "1 7/8\"  Brace Band",
+      "Weight": ".17 lbs",
+      "Bag Qty": 250,
+      "PS": 0.63,
+      "AL": 0,
+      "BL": 0.84,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04023-XX",
+      "Description": "2 3/8\"  Brace Band",
+      "Weight": ".22 lbs",
+      "Bag Qty": 250,
+      "PS": 0.79,
+      "AL": 0,
+      "BL": 0.95,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04024-XX",
+      "Description": "2 7/8\"  Brace Band",
+      "Weight": ".23 lbs",
+      "Bag Qty": 100,
+      "PS": 0.82,
+      "AL": 0,
+      "BL": 1.05,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04025-XX",
+      "Description": "3 1/2\"  Brace Band",
+      "Weight": ".28 lbs",
+      "Bag Qty": 100,
+      "PS": 1,
+      "AL": 0,
+      "BL": 1.22,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04026-PS",
+      "Description": "4 1/2\"  Brace Band",
+      "Weight": ".36 lbs",
+      "Bag Qty": 100,
+      "PS": 1.24,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04027-PS",
+      "Description": "6 5/8\"  Brace Band",
+      "Weight": ".65 lbs",
+      "Bag Qty": 50,
+      "PS": 1.79,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 1"
+    }
+  ],
+  "domeCaps": [
+    {
+      "Item #": "04030-XX",
+      "Description": "1 3/8\"  Dome Cap",
+      "Weight": ".1 lbs",
+      "Bag Qty": 250,
+      "PS": 0.5,
+      "AL": 0.6,
+      "BL": 0.82,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04031-XX",
+      "Description": "1 5/8\"  Dome Cap",
+      "Weight": ".12 lbs",
+      "Bag Qty": 250,
+      "PS": 0.8,
+      "AL": 0.71,
+      "BL": 1,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04032-XX",
+      "Description": "1 7/8\"  Dome Cap",
+      "Weight": ".14 lbs",
+      "Bag Qty": 200,
+      "PS": 0.96,
+      "AL": 0.73,
+      "BL": 1.22,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04033-XX",
+      "Description": "2 3/8\"  Dome Cap",
+      "Weight": ".26 lbs",
+      "Bag Qty": 125,
+      "PS": 1.12,
+      "AL": 1.06,
+      "BL": 1.55,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04034-XX",
+      "Description": "2 7/8\"  Dome Cap",
+      "Weight": ".28 lbs",
+      "Bag Qty": 100,
+      "PS": 1.65,
+      "AL": 2.2,
+      "BL": 2.56,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04035-XX",
+      "Description": "3 1/2\"  Dome Cap",
+      "Weight": ".62 lbs",
+      "Bag Qty": 50,
+      "PS": 3.03,
+      "AL": 2.25,
+      "BL": 2.72,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04036-XX",
+      "Description": "4 1/2\"  Dome Cap",
+      "Weight": ".9 lbs",
+      "Bag Qty": 50,
+      "PS": 3.83,
+      "AL": 3.6,
+      "BL": 3.82,
+      "MA": 0,
+      "Page": "FIT 1"
+    },
+    {
+      "Item #": "04037-PS",
+      "Description": "6 5/8\"  Dome Cap",
+      "Weight": "1.91 lbs",
+      "Bag Qty": 25,
+      "PS": 8.08,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 1"
+    }
+  ],
+  "squareTensionBands": [
+    {
+      "Item #": "04710-XX",
+      "Description": "1  1/2\"  Tension Band",
+      "Weight": ".14 lbs",
+      "Bag Qty": 250,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04712-XX",
+      "Description": "2\"",
+      "Weight": ".15 lbs",
+      "Bag Qty": 250,
+      "PS": 2.49,
+      "AL": 0,
+      "BL": 2.97,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04714-XX",
+      "Description": "2 1/2\"  Tension Band",
+      "Weight": ".16 lbs",
+      "Bag Qty": 250,
+      "PS": 2.87,
+      "AL": 0,
+      "BL": 3.36,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04716-XX",
+      "Description": "3\"",
+      "Weight": ".17 lbs",
+      "Bag Qty": 250,
+      "PS": 3.23,
+      "AL": 0,
+      "BL": 3.72,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04718-XX",
+      "Description": "3\u201D 1/2\u201D Tension Band",
+      "Weight": ".2 lbs",
+      "Bag Qty": 250,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04720-XX",
+      "Description": "4\"",
+      "Weight": ".22 lbs",
+      "Bag Qty": 250,
+      "PS": 4.73,
+      "AL": 0,
+      "BL": 5.21,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04722-XX",
+      "Description": "6\"",
+      "Weight": ".35 lbs",
+      "Bag Qty": 250,
+      "PS": 4.87,
+      "AL": 0,
+      "BL": 5.36,
+      "MA": 0,
+      "Page": "FIT 2"
+    }
+  ],
+  "squareBraceBands": [
+    {
+      "Item #": "04740-XX",
+      "Description": "1 1/2\"  Brace Band",
+      "Weight": ".13 lbs",
+      "Bag Qty": 250,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04742-XX",
+      "Description": "2\"  Brace Band",
+      "Weight": ".15 lbs",
+      "Bag Qty": 250,
+      "PS": 2.67,
+      "AL": 0,
+      "BL": 3.02,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04744-XX",
+      "Description": "2 1/2\"  Brace Band",
+      "Weight": ".17 lbs",
+      "Bag Qty": 250,
+      "PS": 3.31,
+      "AL": 0,
+      "BL": 3.56,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04746-XX",
+      "Description": "3\"  Brace Band",
+      "Weight": ".22 lbs",
+      "Bag Qty": 250,
+      "PS": 5.9,
+      "AL": 0,
+      "BL": 4.7,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04748-XX",
+      "Description": "3 1/2\u201D Brace Band",
+      "Weight": ".22 lbs",
+      "Bag Qty": 250,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04750-XX",
+      "Description": "4\"  Brace Band",
+      "Weight": ".23 lbs",
+      "Bag Qty": 250,
+      "PS": 5.23,
+      "AL": 0,
+      "BL": 5.23,
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04752-XX",
+      "Description": "6 \u201C Brace Band",
+      "Weight": ".28 lbs",
+      "Bag Qty": 100,
+      "PS": 8.01,
+      "AL": 0,
+      "BL": 8.01,
+      "MA": 0,
+      "Page": "FIT 2"
+    }
+  ],
+  "squareDomeCaps": [
+    {
+      "Item #": "04760-PS",
+      "Description": "1 1/2\"  Dome Cap",
+      "Weight": ".1 lbs",
+      "Bag Qty": 250,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04762-PS",
+      "Description": "2\"  Dome Cap",
+      "Weight": ".12 lbs",
+      "Bag Qty": 250,
+      "PS": 2.57,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04764-PS",
+      "Description": "2.5\"  Dome Cap",
+      "Weight": ".14 lbs",
+      "Bag Qty": 200,
+      "PS": 3.88,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04766-PS",
+      "Description": "3\"  Dome Cap",
+      "Weight": ".26 lbs",
+      "Bag Qty": 125,
+      "PS": 4.32,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04768-PS",
+      "Description": "3 1/2\u201D  Dome Cap",
+      "Weight": ".26 lbs",
+      "Bag Qty": 125,
+      "PS": 4.22,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04770-PS",
+      "Description": "4\"  Dome Cap",
+      "Weight": ".28 lbs",
+      "Bag Qty": 100,
+      "PS": 5.87,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    },
+    {
+      "Item #": "04772-PS",
+      "Description": "6\"  Dome Cap",
+      "Weight": ".62 lbs",
+      "Bag Qty": 50,
+      "PS": 8.97,
+      "AL": 0,
+      "BL": "ORN 6",
+      "MA": 0,
+      "Page": "FIT 2"
+    }
+  ],
+  "linePostTops": [
+    {
+      "Item #": "04040-XX",
+      "Description": "1 5/8\" X 1 3/8\"",
+      "Weight": ".36 lbs",
+      "Bag Qty": 100,
+      "PS": 0.94,
+      "AL": 1.72,
+      "BL": 1.72,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04041-PS",
+      "Description": "1 5/8\" x 1 5/8\"",
+      "Weight": ".39 lbs",
+      "Bag Qty": 100,
+      "PS": 1.04,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04042-XX",
+      "Description": "1 7/8\" X 1 3/8\"",
+      "Weight": ".43 lbs",
+      "Bag Qty": 100,
+      "PS": 1.49,
+      "AL": 2.05,
+      "BL": 2.05,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04043-XX",
+      "Description": "1 7/8\" X 1 5/8\"",
+      "Weight": ".5 lbs",
+      "Bag Qty": 100,
+      "PS": 1.65,
+      "AL": 2.42,
+      "BL": 2.42,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04044-XX",
+      "Description": "2 3/8\" X 1 5/8\"",
+      "Weight": ".55 lbs",
+      "Bag Qty": 50,
+      "PS": 1.98,
+      "AL": 0,
+      "BL": 2.56,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04045-PS",
+      "Description": "2 7/8\" X 1 5/8\"",
+      "Weight": ".62 lbs",
+      "Bag Qty": 50,
+      "PS": 3.21,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 3"
+    }
+  ],
+  "railEnds": [
+    {
+      "Item #": "04050-XX",
+      "Description": "1 3/8\"  Rail End",
+      "Weight": ".26 lbs",
+      "Bag Qty": 100,
+      "PS": 1,
+      "AL": 1.48,
+      "BL": 1.48,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04051-XX",
+      "Description": "1 5/8\"  Rail End",
+      "Weight": ".31 lbs",
+      "Bag Qty": 100,
+      "PS": 1.35,
+      "AL": 1.68,
+      "BL": 1.68,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04053-XX",
+      "Description": "1 7/8\"  Rail End",
+      "Weight": ".35 lbs",
+      "Bag Qty": 100,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04054-XX",
+      "Description": "2 3/8\u201D Rail End",
+      "Weight": ".38 lbs",
+      "Bag Qty": 100,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": "CALL",
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04052-PS",
+      "Description": "1 5/8\"  Rail End  2 hole",
+      "Weight": ".47 lbs",
+      "Bag Qty": 100,
+      "PS": 2.05,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 3"
+    }
+  ],
+  "railSleeves": [
+    {
+      "Item #": "04060-XX",
+      "Description": "1 3/8\"  Rail Sleeve",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 1.42,
+      "AL": 0,
+      "BL": 1.98,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04061-XX",
+      "Description": "1 5/8\"  Rail Sleeve",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": 1.74,
+      "AL": 0,
+      "BL": 2.15,
+      "MA": 0,
+      "Page": "FIT 3"
+    },
+    {
+      "Item #": "04063-PS",
+      "Description": "1 7/8\"  Rail Sleeve",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 3"
+    }
+  ],
+  "tensionBars": [
+    {
+      "Item #": "04211-PS",
+      "Description": "40\"  Tension Bar (3/16\u201D X 5/8\u201D)",
+      "Weight": "1.12 lbs",
+      "Bag Qty": 25,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04212-XX",
+      "Description": "46\"  Tension Bar (3/16\u201D X 5/8\u201D)",
+      "Weight": "1.3 lbs",
+      "Bag Qty": 25,
+      "PS": 2.56,
+      "AL": 0,
+      "BL": 5.4,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04213-XX",
+      "Description": "58\"  Tension Bar (3/16\u201D X 5/8\u201D)",
+      "Weight": "1.6 lbs",
+      "Bag Qty": 25,
+      "PS": 3.2,
+      "AL": 0,
+      "BL": 6.74,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04214-XX",
+      "Description": "70\"  Tension Bar (3/16\u201D X 5/8\u201D)",
+      "Weight": "1.98 lbs",
+      "Bag Qty": 25,
+      "PS": 4.18,
+      "AL": 0,
+      "BL": 8.1,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04215-PS",
+      "Description": "82\u201D Tension Bar (3/16\u201D X 5/8\u201D)",
+      "Weight": "2.29 lbs",
+      "Bag Qty": 25,
+      "PS": 4.7,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04216-PS",
+      "Description": "94\" Tension Bar (3/16\" x 5/8\")",
+      "Weight": "2.69 lbs",
+      "Bag Qty": 25,
+      "PS": 5.14,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04218-PS",
+      "Description": "118\" Tension Bar (3/16\" x 5/8\")",
+      "Weight": "3.38 lbs",
+      "Bag Qty": 25,
+      "PS": 7.41,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04221-PS",
+      "Description": "216\"  Tension Bar  (3/16\u201D X 5/8\u201D)",
+      "Weight": "6.2 lbs",
+      "Bag Qty": 25,
+      "PS": 12.92,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04234-PS",
+      "Description": "70\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "2.38 lbs",
+      "Bag Qty": 25,
+      "PS": 5.01,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04235-PS",
+      "Description": "82\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "2.8 lbs",
+      "Bag Qty": 25,
+      "PS": 5.85,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04236-PS",
+      "Description": "94\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "3.2 lbs",
+      "Bag Qty": 25,
+      "PS": 6.69,
+      "AL": 0,
+      "BL": 10.79,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04237-PS",
+      "Description": "118\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "4.09 lbs",
+      "Bag Qty": 25,
+      "PS": 8.36,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04238-PS",
+      "Description": "142\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "4.8 lbs",
+      "Bag Qty": 25,
+      "PS": 10.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04239-PS",
+      "Description": "216\"  Tension Bar (3/16\" X 3/4\")",
+      "Weight": "7.3 lbs",
+      "Bag Qty": 25,
+      "PS": 15.04,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    }
+  ],
+  "trussrods": [
+    {
+      "Item #": "04180-PS",
+      "Description": "12' Truss Rod (3/8\")",
+      "Weight": "4.51 lbs",
+      "Bag Qty": 25,
+      "PS": 11.2,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    },
+    {
+      "Item #": "04184-PS",
+      "Description": "Truss Rod Tightener",
+      "Weight": 0.68,
+      "Bag Qty": 200,
+      "PS": 2.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 4"
+    }
+  ],
+  "panelClamps": [
+    {
+      "Item #": "04080-PS",
+      "Description": "1 3/8\" X 1 3/8\"  Panel Clamp",
+      "Weight": ".52 lbs",
+      "Bag Qty": 100,
+      "PS": 1.62,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04081-PS",
+      "Description": "1 5/8\" X 1 5/8\"  Panel Clamp",
+      "Weight": ".62 lbs",
+      "Bag Qty": 50,
+      "PS": 2.09,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04082-PS",
+      "Description": "1 7/8\" X 1 7/8\"  Panel Clamp",
+      "Weight": ".76 lbs",
+      "Bag Qty": 50,
+      "PS": 2.41,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    }
+  ],
+  "braceClamps": [
+    {
+      "Item #": "04100-PS",
+      "Description": "2 3/8\" X 1 5/8\"",
+      "Weight": 0.58,
+      "Bag Qty": 50,
+      "PS": 3.26,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04101-PS",
+      "Description": "2 7/8\" X 1 5/8\"",
+      "Weight": 0.6,
+      "Bag Qty": 50,
+      "PS": 3.42,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    }
+  ],
+  "boulevardClamps": [
+    {
+      "Item #": "04108-PS",
+      "Description": "1 7/8\" X 1 3/8\"  Boulevard Clamp",
+      "Weight": ".56 lbs",
+      "Bag Qty": 50,
+      "PS": 3.54,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04111-PS",
+      "Description": "1 7/8\" X 1 5/8\"  Boulevard Clamp",
+      "Weight": ".66 lbs",
+      "Bag Qty": 50,
+      "PS": 3.72,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04111-PS",
+      "Description": "2 3/8\" X 1 5/8\"  Boulevard Clamp",
+      "Weight": ".8 lbs",
+      "Bag Qty": 50,
+      "PS": 4.06,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "04112-PS",
+      "Description": "2 7/8\" X 1 5/8\"  Boulevard Clamp",
+      "Weight": ".9 lbs",
+      "Bag Qty": 50,
+      "PS": 4.48,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    }
+  ],
+  "automaticGateCloser": [
+    {
+      "Item #": "05136-AL",
+      "Description": "1 7/8\u201D Auto Gate Closer",
+      "Weight": "1.25 lbs",
+      "Bag Qty": 12,
+      "PS": 0,
+      "AL": 19.3,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    },
+    {
+      "Item #": "05138-AL",
+      "Description": "2 3/8\u201D Auto Gate Closer",
+      "Weight": "1.5 lbs",
+      "Bag Qty": 12,
+      "PS": 0,
+      "AL": 26.48,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 5"
+    }
+  ],
+  "gateFrameHinge": [
+    {
+      "Item #": "05100-XX",
+      "Description": "1 3/8 Gate Frame Hinge (5/8\u201D)",
+      "Weight": ".3 lbs",
+      "Bag Qty": 100,
+      "PS": 1.05,
+      "AL": 0,
+      "BL": 1.6,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05102-XX",
+      "Description": "1 5/8 Gate Frame Hinge (5/8\u201D)",
+      "Weight": ".5 lbs",
+      "Bag Qty": 50,
+      "PS": 1.5,
+      "AL": 0,
+      "BL": 2.24,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05104-XX",
+      "Description": "1 7/8 Gate Frame Hinge (5/8\u201D)",
+      "Weight": ".9 lbs",
+      "Bag Qty": 50,
+      "PS": 1.94,
+      "AL": 0,
+      "BL": 2.33,
+      "MA": 0,
+      "Page": "FIT 6"
+    }
+  ],
+  "gatePostHinge": [
+    {
+      "Item #": "05110-PS",
+      "Description": "1 3/8 Gate Post Hinge (5/8\u201D)",
+      "Weight": ".49lbs",
+      "Bag Qty": 50,
+      "PS": 1.78,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05112-PS",
+      "Description": "1 5/8 Gate Post Hinge (5/8\u201D)",
+      "Weight": ".51 lbs",
+      "Bag Qty": 50,
+      "PS": 2.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05114-XX",
+      "Description": "1 7/8 Gate Post Hinge (5/8\u201D)",
+      "Weight": ".74 lbs",
+      "Bag Qty": 50,
+      "PS": 2.53,
+      "AL": 0,
+      "BL": 2.95,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05116-XX",
+      "Description": "2 3/8 Gate Post Hinge (5/8\u201D)",
+      "Weight": ".89 lbs",
+      "Bag Qty": 50,
+      "PS": 3.02,
+      "AL": 0,
+      "BL": 3.42,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05118-XX",
+      "Description": "2 7/8 Gate Post Hinge (5/8\u201D)",
+      "Weight": "1.04lbs",
+      "Bag Qty": 50,
+      "PS": 3.32,
+      "AL": 0,
+      "BL": 5.19,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05120-PS",
+      "Description": "3 1/2 Gate Post Hinge (5/8\u201D)",
+      "Weight": "1.11 lbs",
+      "Bag Qty": 50,
+      "PS": 3.95,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    }
+  ],
+  "flatBackPinHinge": [
+    {
+      "Item #": "05126-PS",
+      "Description": "Flat Back Pin Hinge (5/8\u201D)",
+      "Weight": "1.11lbs",
+      "Bag Qty": 50,
+      "PS": 2.83,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    }
+  ],
+  "gravityHinge": [
+    {
+      "Item #": "05132-PS",
+      "Description": "1 7/8\u201D x 1 3/8\u201D Gravity Hinge",
+      "Weight": "4.8 lbs",
+      "Bag Qty": 20,
+      "PS": 10.93,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    },
+    {
+      "Item #": "05134-PS",
+      "Description": "2 3/8\u201D x 1 3/8\u201D Gravity Hinge",
+      "Weight": "8 lbs",
+      "Bag Qty": 20,
+      "PS": 15.46,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 6"
+    }
+  ],
+  "industrialPostCollarBackBolt": [
+    {
+      "Item #": "05142BB",
+      "Description": "2 3/8\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "1.6 lbs",
+      "Bag Qty": 25,
+      "PS": 7.99,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05144BB",
+      "Description": "2 7/8\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "3.19 lbs",
+      "Bag Qty": 20,
+      "PS": 8.57,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05146BB",
+      "Description": "3 1/2\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "1.9 lbs",
+      "Bag Qty": 10,
+      "PS": 8.84,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05147BB",
+      "Description": "4 1/2\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "2.62 lbs",
+      "Bag Qty": 10,
+      "PS": 11.79,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05150BB",
+      "Description": "6 5/8\" X 1\"   Ind. Gate Post Collar",
+      "Weight": "3.7 lbs",
+      "Bag Qty": 5,
+      "PS": 30.96,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    }
+  ],
+  "industrialPostCollarHookAndEye": [
+    {
+      "Item #": "05142-HE",
+      "Description": "2 3/8\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "1.6 lbs",
+      "Bag Qty": 25,
+      "PS": 7.05,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05144-HE",
+      "Description": "2 7/8\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "3.19 lbs",
+      "Bag Qty": 20,
+      "PS": 8.57,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05146-HE",
+      "Description": "3 1/2\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "1.9 lbs",
+      "Bag Qty": 10,
+      "PS": 8.84,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05147-HE",
+      "Description": "4 1/2\" X 3/4\"  Ind. Gate Post Collar",
+      "Weight": "2.62 lbs",
+      "Bag Qty": 10,
+      "PS": 11.79,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    }
+  ],
+  "gateFrameCollar": [
+    {
+      "Item #": "05158-PS",
+      "Description": "1 5/8\" x 3/4\" Gate Frame Collar",
+      "Weight": "1.6 lbs",
+      "Bag Qty": 25,
+      "PS": 5.63,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    }
+  ],
+  "hangerBolts": [
+    {
+      "Item #": "05172-XX",
+      "Description": "5/8\u201D X 6\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 4.99,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05176-XX",
+      "Description": "5/8\u201D X 10\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": 0,
+      "AL": 5.48,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05178-XX",
+      "Description": "5/8\u201D X 12\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": 0,
+      "AL": 6.42,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05182-XX",
+      "Description": "3/4\u201D X 6\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": 4.48,
+      "AL": 4.85,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05184-XX",
+      "Description": "3/4\u201D X 9\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 5.42,
+      "AL": 5.97,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05188-XX",
+      "Description": "3/4\u201D X 12\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 7.2,
+      "AL": 7.35,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    },
+    {
+      "Item #": "05194-XX",
+      "Description": "1\u201D X 9\u201D Bolt",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 10.21,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 7"
+    }
+  ],
+  "lagScrew": [
+    {
+      "Item #": "05210-PS",
+      "Description": "5/8\u201D X 4 1/2\u201D  Lag Screw",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 3.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05212-PS",
+      "Description": "5/8\u201D X 6\u201D  Lag Screw",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 3.44,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05200-PS",
+      "Description": "1/2\u201D x 4 1/2\u201D  Lag Screw",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05222-PS",
+      "Description": "3/4\u201D X 6\u201D  Lag Screw",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 4.08,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    }
+  ],
+  "forkLatch": [
+    {
+      "Item #": "05010-PS",
+      "Description": "1 3/8\" X 1 3/8\"",
+      "Weight": ".8 lbs",
+      "Bag Qty": 25,
+      "PS": 3.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05011-PS",
+      "Description": "1 3/8\u201D X 1 5/8\u201D",
+      "Weight": ".8 lbs",
+      "Bag Qty": 25,
+      "PS": 3.82,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05012-XX",
+      "Description": "1 3/8\" X 1 7/8\"",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 4.02,
+      "AL": 0,
+      "BL": 4.5,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05014-XX",
+      "Description": "1 3/8\" X 2 3/8\"",
+      "Weight": "1.1 lbs",
+      "Bag Qty": 25,
+      "PS": 5.18,
+      "AL": 0,
+      "BL": 5.48,
+      "MA": 9.87,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05016-XX",
+      "Description": "1 3/8\" X 2 7/8\"",
+      "Weight": ".8 lbs",
+      "Bag Qty": 25,
+      "PS": 6.46,
+      "AL": 0,
+      "BL": 0,
+      "MA": 12.26,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05017-PS",
+      "Description": "1 5/8\u201D X 1 7/8\u201D",
+      "Weight": "1.1 lbs",
+      "Bag Qty": 25,
+      "PS": 4.42,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05018-XX",
+      "Description": "1 5/8\u201D X 2 3/8\u201D",
+      "Weight": "1.12 lbs",
+      "Bag Qty": 25,
+      "PS": 4.7,
+      "AL": 0,
+      "BL": 5.19,
+      "MA": 6.94,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05020-XX",
+      "Description": "1 5/8\u201D X 2 7/8\u201D",
+      "Weight": "1.5 lbs",
+      "Bag Qty": 25,
+      "PS": 4.99,
+      "AL": 0,
+      "BL": 5.48,
+      "MA": 9.68,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05022-XX",
+      "Description": "1 5/8\u201D X 3 1/2\u201D",
+      "Weight": "1.8 lbs",
+      "Bag Qty": 25,
+      "PS": 5.92,
+      "AL": 0,
+      "BL": 7.44,
+      "MA": 9.94,
+      "Page": "FIT 8"
+    }
+  ],
+  "buildAForkLatch": [
+    {
+      "Item #": "05002-PS",
+      "Description": "1 3/8\u201D Two piece collar for fork latch",
+      "Weight": ".4 lbs",
+      "Bag Qty": 100,
+      "PS": 1.74,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05003-PS",
+      "Description": "1 5/8\u201D Two piece collar for fork latch",
+      "Weight": ".6 lbs",
+      "Bag Qty": 100,
+      "PS": 2.01,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05004-PS",
+      "Description": "Gate Forks 1 3/8\u201D  for collars",
+      "Weight": ".4 lbs",
+      "Bag Qty": 100,
+      "PS": 1.46,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05005-PS",
+      "Description": "Gate Forks 1 5/8\u201D  for collars",
+      "Weight": ".6 lbs",
+      "Bag Qty": 100,
+      "PS": 2.62,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05006-PS",
+      "Description": "Gate Forks 1 7/8\u201D  for collars",
+      "Weight": ".8 lbs",
+      "Bag Qty": 100,
+      "PS": 1.82,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05007-PS",
+      "Description": "Gate Forks 2 3/8\u201D  for collars",
+      "Weight": "1 lbs",
+      "Bag Qty": 100,
+      "PS": 2.01,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    },
+    {
+      "Item #": "05009-PS",
+      "Description": "Flat Back Bracket",
+      "Weight": "1 lbs",
+      "Bag Qty": 50,
+      "PS": 2.01,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 8"
+    }
+  ],
+  "flatBackForkLatch": [
+    {
+      "Item #": "05000-PS",
+      "Description": "Flat Back with 1 3/8\u201D Fork",
+      "Weight": "1.2 lbs",
+      "Bag Qty": 100,
+      "PS": 3.9,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 9"
+    }
+  ],
+  "kiwiLatch": [
+    {
+      "Item #": 18660,
+      "Description": "Kiwi Latch",
+      "Weight": ".3 lbs",
+      "Bag Qty": "Each",
+      "PS": 10.8,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 9"
+    }
+  ],
+  "roloLatch": [
+    {
+      "Item #": "05030-PS",
+      "Description": "1 5/8\"  Rolo Latch w/o Bands",
+      "Weight": "2.1 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "dropLatchCatch": [
+    {
+      "Item #": "05040-MA",
+      "Description": "1 5/8\"  Drop Latch Catch",
+      "Weight": "1.16 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05042-MA",
+      "Description": "1 7/8\"  Drop Latch Catch",
+      "Weight": "1.45 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05044-MA",
+      "Description": "2 3/8\"  Drop Latch Catch",
+      "Weight": "1.7 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05046-MA",
+      "Description": "2 7/8\"  Drop Latch Catch",
+      "Weight": "2 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05048-MA",
+      "Description": "3 1/2\"  Drop Latch Catch",
+      "Weight": "2.3 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05052-MA",
+      "Description": "1 5/8\"  Drop Latch",
+      "Weight": "1.16 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "butterflyLatch": [
+    {
+      "Item #": "05070-PS",
+      "Description": "1 3/8\" X 1 7/8\"",
+      "Weight": "1.15 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05072-PS",
+      "Description": "1 3/8\" X 2 3/8\"",
+      "Weight": "1.25 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05076-PS",
+      "Description": "1 3/8\"  Flat Back",
+      "Weight": ".6 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "kennelLatch": [
+    {
+      "Item #": "05088-PS",
+      "Description": "Kennel Latch",
+      "Weight": ".8 lbs",
+      "Bag Qty": 50,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "frostFreeLatch": [
+    {
+      "Item #": "05090-MA",
+      "Description": "1 5/8\" Frame Assembly",
+      "Weight": "2.8 lbs",
+      "Bag Qty": 10,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "poolLatch": [
+    {
+      "Item #": "05060-BL",
+      "Description": "1 3/8\" X 1 7/8\" Push Down Gate Latch",
+      "Weight": "3 lbs",
+      "Bag Qty": 1,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05062-BL",
+      "Description": "1 3/8\" X 2 3/8\" Push Down Gate Latch",
+      "Weight": "3.5 lbs",
+      "Bag Qty": 1,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "caneBolt": [
+    {
+      "Item #": "05080-PS",
+      "Description": "3/4\" X 24\" Cane Bolt Assembly",
+      "Weight": "3.96 lbs",
+      "Bag Qty": 10,
+      "PS": 15.71,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "dropPinLatch": [
+    {
+      "Item #": "05084-PS",
+      "Description": "Drop Pin Latch Assembly",
+      "Weight": "1.2 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "ezLatchAssembly": [
+    {
+      "Item #": "05086-PS",
+      "Description": "1 3/8\" X 42\" E-Z Latch Assembly",
+      "Weight": "2.6 lbs",
+      "Bag Qty": 10,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "dropRod": [
+    {
+      "Item #": "05092-PS",
+      "Description": "Ind. Drop Rod (Forks Only) 1 5/8\u201D",
+      "Weight": ".5 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05092-PS",
+      "Description": "Ind. Drop Rod (Guides only) 1 5/8\u201D",
+      "Weight": ".5 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "gateKeeper": [
+    {
+      "Item #": "05750-XX",
+      "Description": "1 5/8\" or 1 7/8\"  Gate Keeper",
+      "Weight": "1.15 lbs",
+      "Bag Qty": 20,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "driveInPlug": [
+    {
+      "Item #": "05754-MA",
+      "Description": "1 3/8\"  Drive In Plug",
+      "Weight": ".15 lbs",
+      "Bag Qty": 200,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05756-MA",
+      "Description": "1 5/8\"  Drive In Plug",
+      "Weight": ".25 lbs",
+      "Bag Qty": 200,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05758-MA",
+      "Description": "1 7/8\"  Drive In Plug",
+      "Weight": ".35 lbs",
+      "Bag Qty": 200,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "gateClip": [
+    {
+      "Item #": "05760-XX",
+      "Description": "1 3/8\" C TYPE  Gate Clip",
+      "Weight": ".11 lbs",
+      "Bag Qty": 250,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05762-PS",
+      "Description": "1 3/8\" L TYPE  Gate Clip",
+      "Weight": ".11 lbs",
+      "Bag Qty": 250,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05764-PS",
+      "Description": "1 5/8\" C TYPE  Gate Clip",
+      "Weight": ".11 lbs",
+      "Bag Qty": 250,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "safeTRearWheel": [
+    {
+      "Item #": "05700-XX",
+      "Description": "1 5/8\" x 5\"",
+      "Weight": "4.92 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "safeTLineTrackBrackets": [
+    {
+      "Item #": "05710-XX",
+      "Description": "1 5/8\" or 1 7/8\" X 1 5/8\"",
+      "Weight": "2.4 lbs",
+      "Bag Qty": 20,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05712-XX",
+      "Description": "2 3/8\" or 2 7/8\" X 1 5/8\"",
+      "Weight": "2.5 lbs",
+      "Bag Qty": 20,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05716-PS",
+      "Description": "3 1/2\" X 1 5/8\"",
+      "Weight": "2.8 lbs",
+      "Bag Qty": 20,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05718-PS",
+      "Description": "1 5/8\"  Flat Back Line Bracket",
+      "Weight": "1.82 lbs",
+      "Bag Qty": 20,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "cantileverRollers": [
+    {
+      "Item #": "05732-XX",
+      "Description": "3 1/2\" X 2 3/8\" or 1 7/8\"",
+      "Weight": "16.3 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05734-XX",
+      "Description": "4 1/2\" X 2 3/8\" or 1 7/8\"",
+      "Weight": "16.3 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "wheels": [
+    {
+      "Item #": "05800-PS",
+      "Description": "6\"  Rubber Tired Wheel",
+      "Weight": "1.95 lbs",
+      "Bag Qty": 10,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05802-PS",
+      "Description": "8\"  Rubber Tired Wheel",
+      "Weight": "2.95 lbs",
+      "Bag Qty": 10,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05804-PS",
+      "Description": "10\"  Rubber Tired Wheel",
+      "Weight": "1.95 lbs",
+      "Bag Qty": 5,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "swivelWheels": [
+    {
+      "Item #": "05820-PS",
+      "Description": "Fits 1 3/8\" Frame",
+      "Weight": "4.65 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05822-PS",
+      "Description": "Fits 1 5/8\" Frame",
+      "Weight": "4.75 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "singleWheels": [
+    {
+      "Item #": "05824-PS",
+      "Description": "1 5/8\" X 1 7/8\"  Single Wheel",
+      "Weight": "2.81 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "wheelCarriers": [
+    {
+      "Item #": "05832-PS",
+      "Description": "1 5/8\" Frame 8\" Wheel",
+      "Weight": "7 lbs",
+      "Bag Qty": 4,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "doubleWheelAssembly": [
+    {
+      "Item #": "05842-PS",
+      "Description": "1 5/8\" or 1 7/8\" (12\" x 8\")",
+      "Weight": "11.5 lbs",
+      "Bag Qty": 1,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "pneumaticWheels": [
+    {
+      "Item #": "05852-PS",
+      "Description": "1 5/8\" Frame, 10\"(12\")",
+      "Weight": "14.1 lbs",
+      "Bag Qty": 1,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbArmsUprights": [
+    {
+      "Item #": "04303-PS",
+      "Description": "1 5/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
+      "Weight": "1.2 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04300-PS",
+      "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
+      "Weight": "1.24 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04302-PS",
+      "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- Uprights",
+      "Weight": "1.6 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbArms45Deg": [
+    {
+      "Item #": "04311-PS",
+      "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
+      "Weight": "1.54 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04312-PS",
+      "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
+      "Weight": "1.65 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04313-PS",
+      "Description": "2 7/8\u201D X 1 5/8\u201D Barb Arm- 45 Deg.",
+      "Weight": "1.8 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbArmsV": [
+    {
+      "Item #": "04321-PS",
+      "Description": "1 7/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
+      "Weight": "2.07 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04322-PS",
+      "Description": "2 3/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
+      "Weight": "2.2 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04323-PS",
+      "Description": "2 7/8\u201D X 1 5/8\u201D Barb Arm- \"V\"",
+      "Weight": "3.3 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "cornerBarbArms45Deg": [
+    {
+      "Item #": "04330-PS",
+      "Description": "2 3/8\u201D Corner Barb Arm- 45 Deg.",
+      "Weight": "3 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04331-PS",
+      "Description": "2 7/8\u201D Corner Barb Arm- 45 Deg.",
+      "Weight": "3.5 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04332-PS",
+      "Description": "3 1/2\u201D Corner Barb Arm- 45 Deg.",
+      "Weight": "3.7 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "cornerBarbArmsV": [
+    {
+      "Item #": "04340-PS",
+      "Description": "2 3/8\u201D Corner Barb Arm- \"V\"",
+      "Weight": "6 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04341-PS",
+      "Description": "2 7/8\u201D Corner Barb Arm- \"V\"",
+      "Weight": "6.15 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04342-PS",
+      "Description": "3 1/2\u201D Corner Barb Arm- \"V\"",
+      "Weight": "6.3 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04343-PS",
+      "Description": "4 1/2\u201D Corner Barb Arm- \"V\"",
+      "Weight": "6.6 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbArmBases": [
+    {
+      "Item #": "04350-PS",
+      "Description": "1 7/8\" X 1 5/8\" Barb Arm Base",
+      "Weight": "1.23 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04351-PS",
+      "Description": "2 3/8\" X 1 5/8\" Barb Arm Base",
+      "Weight": "1.41 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04352-PS",
+      "Description": "2 7/8\" X 1 5/8\" Barb Arm Base",
+      "Weight": "1.76 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbArmsMisc": [
+    {
+      "Item #": "04362-PS",
+      "Description": "S - Slot Barb Arm",
+      "Weight": ".75 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "04360-PS",
+      "Description": "V Barb Ext Arm (Notched)",
+      "Weight": ".8 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "woodSteelAdapters": [
+    {
+      "Item #": "04408-PS",
+      "Description": "1 7/8\" x 6\" Adj. Wood-Steel Adaptor",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 6.03,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 16"
+    },
+    {
+      "Item #": "04409-PS",
+      "Description": "2 3/8\" x 6\" Adj. Adapters - Line Post",
+      "Weight": "4.5 lbs",
+      "Bag Qty": 25,
+      "PS": 6.83,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 16"
+    },
+    {
+      "Item #": "04412-PS",
+      "Description": "2 7/8\" x 8\" Adj. Wood-Steel Adaptor",
+      "Weight": ".68 lbs",
+      "Bag Qty": 25,
+      "PS": 9.64,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 16"
+    }
+  ],
+  "woodSteelAdaptersCorner": [
+    {
+      "Item #": "04411-PS",
+      "Description": "2 3/8\" x 6\" Adj. Adaptor - Corner Post",
+      "Weight": "4.51 lbs",
+      "Bag Qty": 25,
+      "PS": 6.92,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "04420-PS",
+      "Description": "1 7/8\" Corner Wood Brackets",
+      "Weight": ".75 lbs",
+      "Bag Qty": 25,
+      "PS": 8.29,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    }
+  ],
+  "woodSteelAdaptersEnd": [
+    {
+      "Item #": "04430-PS",
+      "Description": "2 3/8\" X 1 5/8\"  End Clamp - Wood",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 8.51,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "04432-PS",
+      "Description": "2 7/8\" X 1 5/8\"  End Clamp - Wood",
+      "Weight": "1 lbs",
+      "Bag Qty": 25,
+      "PS": 9.98,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    }
+  ],
+  "tieWires": [
+    {
+      "Item #": "06000-XX",
+      "Description": "6 1/2\" Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 0.12,
+      "BL": 0.14,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06000-PS",
+      "Description": "6 1/4\u201D Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.14,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06002-XX",
+      "Description": "7 1/2\" Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 0.14,
+      "BL": 0.15,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06004-XX",
+      "Description": "8 1/4\"  Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 0.16,
+      "BL": 0.15,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06006-AL",
+      "Description": "10 1/2\"  Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 0.23,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06008-PS",
+      "Description": "8\" Loop Tie Wires",
+      "Weight": ".01 lbs",
+      "Bag Qty": 2500,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    }
+  ],
+  "hogRings": [
+    {
+      "Item #": "06030-AL",
+      "Description": "9 Ga.  - Individual Bag",
+      "Weight": "1 lbs",
+      "Bag Qty": 260,
+      "PS": 0,
+      "AL": 9.5,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 17"
+    },
+    {
+      "Item #": "06030-BL",
+      "Description": "9 Ga. - Individual Bag",
+      "Weight": "1 lbs",
+      "Bag Qty": 220,
+      "PS": 0,
+      "AL": 0,
+      "BL": 6.16,
+      "MA": 0,
+      "Page": "FIT 17"
+    }
+  ],
+  "bottomWire": [
+    {
+      "Item #": "06050-GA",
+      "Description": "11 Ga.  Bottom Wire",
+      "Weight": ".03 lbs",
+      "Bag Qty": "/Foot",
+      "PS": 0,
+      "AL": 0.07,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06052-XX",
+      "Description": "9 Ga.  Bottom Wire",
+      "Weight": ".03 lbs",
+      "Bag Qty": "/Foot",
+      "PS": 0,
+      "AL": 0.14,
+      "BL": 0.14,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06056-XX",
+      "Description": "6 Ga.  Bottom Wire",
+      "Weight": ".1 lbs",
+      "Bag Qty": "/Foot",
+      "PS": 0,
+      "AL": 0.21,
+      "BL": 0.21,
+      "MA": 0,
+      "Page": "FIT 18"
+    }
+  ],
+  "carriageBolts": [
+    {
+      "Item #": "06090-XX",
+      "Description": "5/16\" X 1 1/4\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.19,
+      "AL": 0,
+      "BL": 0.32,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06098-PS",
+      "Description": "5/16\" X 2 1/2\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06070-XX",
+      "Description": "3/8\"  X 2\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.33,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06072-XX",
+      "Description": "3/8\" X 2 1/4\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.39,
+      "AL": 0,
+      "BL": 0.39,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06074-XX",
+      "Description": "3/8\"  X 2 1/2\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.39,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06078-XX",
+      "Description": "3/8\"  X 3\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.41,
+      "AL": 0,
+      "BL": 0.46,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06082-PS",
+      "Description": "3/8\"  X 3 1/2\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.41,
+      "AL": 0,
+      "BL": 0.46,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06086-PS",
+      "Description": "3/8\"  X 4\"  Carriage Bolt",
+      "Weight": ".01 lbs",
+      "Bag Qty": 100,
+      "PS": 0.49,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    }
+  ],
+  "basePlates": [
+    {
+      "Item #": "06122-PS",
+      "Description": "3\" X 6\" X 1/4\"  Base Plate",
+      "Weight": "1.15 lbs",
+      "Bag Qty": 25,
+      "PS": 3.31,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06130-PS",
+      "Description": "4\" X 4\" X 1/4\"  Base Plate",
+      "Weight": "1.16 lbs",
+      "Bag Qty": 25,
+      "PS": 2.92,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06132-PS",
+      "Description": "4\" X 6\" X 1/4\"  Base Plate",
+      "Weight": "1.5 lbs",
+      "Bag Qty": 25,
+      "PS": 4.48,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06134-PS",
+      "Description": "6\" X 6\" X 1/4\"  Base Plate",
+      "Weight": "2.3 lbs",
+      "Bag Qty": 25,
+      "PS": 6.93,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06136-PS",
+      "Description": "8\" X 8\" X 1/4\"  Base Plate",
+      "Weight": "4.25 lbs",
+      "Bag Qty": 10,
+      "PS": 14.52,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06150-PS",
+      "Description": "4\" X 4\" X 1/2\"  Base Plate",
+      "Weight": "4.6 lbs",
+      "Bag Qty": 20,
+      "PS": 7.55,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06152-PS",
+      "Description": "6\" X 6\" X 1/2\"  Base Plate",
+      "Weight": "7 lbs",
+      "Bag Qty": 10,
+      "PS": 16.49,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    },
+    {
+      "Item #": "06154-PS",
+      "Description": "8\" X 8\" X 1/2\"  Base Plate",
+      "Weight": "8 lbs",
+      "Bag Qty": 10,
+      "PS": 29.53,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 18"
+    }
+  ],
+  "anchorBolts": [
+    {
+      "Item #": "06176-PS",
+      "Description": "1/2\" X 2 3/4\"  Anchor Bolt",
+      "Weight": ".5 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06178-PS",
+      "Description": "1/2\" X 3 3/4\"  Anchor Bolt",
+      "Weight": ".5 lbs",
+      "Bag Qty": 25,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "weldOnLugs": [
+    {
+      "Item #": "05778-PS",
+      "Description": "Weld On Lugg",
+      "Weight": ".1 lbs",
+      "Bag Qty": 100,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "barbedWire": [
+    {
+      "Item #": "06200-GA",
+      "Description": "15 1/2 Ga. Class 3 HT Barbed Wire",
+      "Weight": "37 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06202-GA",
+      "Description": "12 1/2 Ga. Barbless Barbed Wire",
+      "Weight": "70 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06204-GA",
+      "Description": "12 1/2 Ga. Canadian Standard",
+      "Weight": "80 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06206-XX",
+      "Description": "12 1/2 Ga. Class 3 Barbed Wire",
+      "Weight": "81 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06203-GA",
+      "Description": "12 1/2 Ga. CDN Standard - 660 FT/Roll",
+      "Weight": "40 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06204IMP",
+      "Description": "12 1/2 Ga. CDN Standard IMPORT",
+      "Weight": "80 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06206IMP",
+      "Description": "12 1/2 Ga. Class 3 IMPORT",
+      "Weight": "81 lbs",
+      "Bag Qty": "27/Skid",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "razorRibbon": [
+    {
+      "Item #": "06210-PS",
+      "Description": "18\u201D Diameter - 50FT Rolls",
+      "Weight": "40 lbs",
+      "Bag Qty": "5/Box",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "chainLinkHangers": [
+    {
+      "Item #": "06271-PS",
+      "Description": "Chain Link Hanger",
+      "Weight": "1 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "turnBuckles": [
+    {
+      "Item #": "06272-PS",
+      "Description": "3/8\" x 6\" Zinc Plated Eye-to-Eye",
+      "Weight": ".5 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "gateScrolls": [
+    {
+      "Item #": "05770-PS",
+      "Description": "18\"  Gate Scroll (Galv)",
+      "Weight": "1.25 lbs",
+      "Bag Qty": 50,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "05772-PS",
+      "Description": "24\"  Gate Scroll (Galv.)",
+      "Weight": "1.25 lbs",
+      "Bag Qty": 50,
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "accessories": [
+    {
+      "Item #": "06290-PS",
+      "Description": "1 Hole Lock Box - 2 1/8\" Hole",
+      "Weight": "3 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "paint": [
+    {
+      "Item #": "06294-BZ",
+      "Description": "12.5 Oz.  Zinc Primer",
+      "Weight": "1 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06296-BL",
+      "Description": "16 oz. Cold Galv. Spray Paint",
+      "Weight": "1 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "cement": [
+    {
+      "Item #": 6291,
+      "Description": "Concrete Mix - 60 lbs Bag",
+      "Weight": "60 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    },
+    {
+      "Item #": "06293-QS",
+      "Description": "Quickrete Cement - 94 lbs Bag",
+      "Weight": "94 lbs",
+      "Bag Qty": "Each",
+      "PS": 0,
+      "AL": 0,
+      "BL": 0,
+      "MA": 0
+    }
+  ],
+  "privacySlats": [
+    {
+      "bottomLock": [
+        {
+          "Item #": "07500-XX",
+          "Description": "36\"  Bottom-Lock",
+          "Weight": "5 lbs",
+          "Bag Qty": 49.81,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07501-XX",
+          "Description": "42\"  Bottom-Lock",
+          "Weight": "6 lbs",
+          "Bag Qty": 52.3,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07502-XX",
+          "Description": "48\"  Bottom-Lock",
+          "Weight": "8 lbs",
+          "Bag Qty": 58.07,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07503-XX",
+          "Description": "60\"  Bottom-Lock",
+          "Weight": "10 lbs",
+          "Bag Qty": 67.24,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07504-XX",
+          "Description": "72\"  Bottom-Lock",
+          "Weight": "12 lbs",
+          "Bag Qty": 79.7,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07505-XX",
+          "Description": "84\"  Bottom-Lock",
+          "Weight": "15 lbs",
+          "Bag Qty": 94.64,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07506-XX",
+          "Description": "96\"  Bottom-Lock",
+          "Weight": "21 lbs",
+          "Bag Qty": 104.59,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07507-XX",
+          "Description": "120\"  Bottom-Lock",
+          "Weight": "26 lbs",
+          "Bag Qty": 136.97,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07508-XX",
+          "Description": "144\"  Bottom-Lock",
+          "Weight": "28 lbs",
+          "Bag Qty": 161.88,
+          "PS": "FIT 21"
+        }
+      ],
+      "liteLink": [
+        {
+          "Item #": "07520-XX",
+          "Description": "36\"  Lite-Link",
+          "Weight": "5 lbs",
+          "Bag Qty": 38.02,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07521-XX",
+          "Description": "42\" Lite-Link",
+          "Weight": "6 lbs",
+          "Bag Qty": 43.07,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07522-XX",
+          "Description": "48\" Lite-Link",
+          "Weight": "8 lbs",
+          "Bag Qty": 46.75,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07523-XX",
+          "Description": "60\" Lite-Link",
+          "Weight": "10 lbs",
+          "Bag Qty": 55.69,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07524-XX",
+          "Description": "72\" Lite-Link",
+          "Weight": "12 lbs",
+          "Bag Qty": 68.22,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07525-XX",
+          "Description": "84\" Lite-Link",
+          "Weight": "15 lbs",
+          "Bag Qty": 76.02,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07526-XX",
+          "Description": "96\"  Lite-Link",
+          "Weight": "21 lbs",
+          "Bag Qty": 91.21,
+          "PS": "FIT 21"
+        }
+      ],
+      "winged": [
+        {
+          "Item #": "07560-XX",
+          "Description": "36\" Winged",
+          "Weight": "5 lbs",
+          "Bag Qty": 69.27,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07561-XX",
+          "Description": "42\"  Winged",
+          "Weight": "6 lbs",
+          "Bag Qty": 79.02,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07562-XX",
+          "Description": "48\"  Winged",
+          "Weight": "8 lbs",
+          "Bag Qty": 80.14,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07563X-X",
+          "Description": "60\"  Winged",
+          "Weight": "10 lbs",
+          "Bag Qty": 98.78,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07564-XX",
+          "Description": "72\" Winged",
+          "Weight": "12 lbs",
+          "Bag Qty": 118.52,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07565-XX",
+          "Description": "84\"  Winged",
+          "Weight": "15 lbs",
+          "Bag Qty": 138.38,
+          "PS": "FIT 21"
+        },
+        {
+          "Item #": "07566-XX",
+          "Description": "96\" Winged",
+          "Weight": "21 lbs",
+          "Bag Qty": 158.13,
+          "PS": "FIT 21"
+        }
+      ],
+      "finLink": [
+        {
+          "Item #": "07540-XX",
+          "Description": "36\" Fin-Link",
+          "Weight": "5 lbs",
+          "Bag Qty": 73.83,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07541-XX",
+          "Description": "42\"  Fin-Link",
+          "Weight": "6 lbs",
+          "Bag Qty": 86.65,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07542-XX",
+          "Description": "48\"  Fin-Link",
+          "Weight": "8 lbs",
+          "Bag Qty": 95.26,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07543-XX",
+          "Description": "60\" Fin-Link",
+          "Weight": "10 lbs",
+          "Bag Qty": 105.39,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07544-XX",
+          "Description": "72\" Fin-Link",
+          "Weight": "12 lbs",
+          "Bag Qty": 126.51,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07545-XX",
+          "Description": "84\"  Fin-Link",
+          "Weight": "15 lbs",
+          "Bag Qty": 147.57,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": "07546-XX",
+          "Description": "96\" Fin-Link",
+          "Weight": "21 lbs",
+          "Bag Qty": 176.17,
+          "PS": "FIT 22"
+        }
+      ],
+      "hedgeLink": [
+        {
+          "Item #": 7600,
+          "Description": "48\"  Hedge-Link",
+          "Weight": "8 lbs",
+          "Bag Qty": 182.96,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": 7601,
+          "Description": "60\"  Hedge-Link",
+          "Weight": "10 lbs",
+          "Bag Qty": 232.53,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": 7602,
+          "Description": "72\" Hedge-Link",
+          "Weight": "12 lbs",
+          "Bag Qty": 274.5,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": 7603,
+          "Description": "84\"  Hedge-Link",
+          "Weight": "15 lbs",
+          "Bag Qty": 312.59,
+          "PS": "FIT 22"
+        },
+        {
+          "Item #": 7604,
+          "Description": "96\"  Hedge-Link",
+          "Weight": "21 lbs",
+          "Bag Qty": 358.32,
+          "PS": "FIT 22"
+        }
+      ]
+    }
+  ],
+  "D&DGateHardware": [
+    {
+      "Item #": "10002",
+      "Description": "TruCLose Hinge - Regular (TCA1L2S3BT) (30 kg/66 lbs)",
+      "Weight": "0.5 lbs",
+      "Bag Qty": 1,
+      "PS": "58.85",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 23"
+    },
+    {
+      "Item #": "10011",
+      "Description": "TruClose HD Hinge (TCHD1AS3BT) (70kg/154lbs)",
+      "Weight": "0.5 lbs",
+      "Bag Qty": 1,
+      "PS": "91.39",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 23"
+    },
+    {
+      "Item #": "10010",
+      "Description": "TruClose HD Rnd Hinge (TCHDRND1S3)",
+      "Weight": "0.5 lbs",
+      "Bag Qty": 1,
+      "PS": "105.01",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 23"
+    },
+    {
+      "Item #": "10074SP",
+      "Description": "LokkLatch Deluxe w/ External Access Key (LLDAB)",
+      "Weight": "0.5 lbs",
+      "Bag Qty": 1,
+      "PS": "150.82",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 23"
+    },
+    {
+      "Item #": "10054SP",
+      "Description": "Lokk Latch w/ External Access Key (LLAAB)",
+      "Weight": "0.5 lbs",
+      "Bag Qty": 1,
+      "PS": "87.23",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 23"
+    }
+  ],
+  "magnaLatch": [
+    {
+      "Item #": "05080BL",
+      "Description": "Magna Safety Latch for Sq. Posts",
+      "Weight": "2 lbs",
+      "Bag Qty": 1,
+      "PS": "117.69",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 24"
+    },
+    {
+      "Item #": "05079BL",
+      "Description": "Adaptor for Round Posts",
+      "Weight": "2 lbs",
+      "Bag Qty": 1,
+      "PS": "48.66",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 24"
+    }
+  ],
+  "tools": [
+    {
+      "Item #": "06252",
+      "Description": "Large Hog Ring Pliers",
+      "Weight": "0.4 lbs",
+      "Bag Qty": "Each",
+      "PS": "10.46",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06254",
+      "Description": "10\" Square Nose Fence Pliers",
+      "Weight": "0.8 lbs",
+      "Bag Qty": "Each",
+      "PS": "58.86",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06258",
+      "Description": "Cable Pow'r-Pull Maasdam Power Pull",
+      "Weight": "12 lbs",
+      "Bag Qty": "Each",
+      "PS": "82.10",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06260",
+      "Description": "A-2.5 Wire/Panel Stretcher Pul-Jak",
+      "Weight": "20 lbs",
+      "Bag Qty": "Each",
+      "PS": "191.58",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06262",
+      "Description": "Pul-Jak Repair Kit",
+      "Weight": "12 lbs",
+      "Bag Qty": "Each",
+      "PS": "65.92",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06263SP",
+      "Description": "4' Fence Stretcher",
+      "Weight": "12 lbs",
+      "Bag Qty": "Each",
+      "PS": "24.51",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 25"
+    },
+    {
+      "Item #": "06266",
+      "Description": "1-1/4\" x 72\" Round Digger Bar",
+      "Weight": "0.4 lbs",
+      "Bag Qty": "Each",
+      "PS": "78.94",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 26"
+    },
+    {
+      "Item #": "06268",
+      "Description": "Wood Handle Digger - Blue",
+      "Weight": "15 lbs",
+      "Bag Qty": "Each",
+      "PS": "153.83",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 26"
+    },
+    {
+      "Item #": "06270",
+      "Description": "Wood Handle Digger - Replacement Handles",
+      "Weight": "5 lbs",
+      "Bag Qty": "Each",
+      "PS": "33.08",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 26"
+    },
+    {
+      "Item #": "06256",
+      "Description": "Wire Dog",
+      "Weight": "2 lbs",
+      "Bag Qty": "Each",
+      "PS": "40.60",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 26"
+    }
+  ],
+  "blackWeldOnElbows90Deg": [
+    {
+      "Item #": "04600PS",
+      "Description": "1 5/8\" Weld On Elbows for Gate",
+      "Weight": "0.55 lbs",
+      "Bag Qty": "Each",
+      "PS": "2.11",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 27"
+    },
+    {
+      "Item #": "04602PS",
+      "Description": "1 7/8\" Weld On Elbows for Gate",
+      "Weight": "0.79 lbs",
+      "Bag Qty": "Each",
+      "PS": "2.35",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 27"
+    },
+    {
+      "Item #": "04604PS",
+      "Description": "2 3/8\" Weld On Elbows for Gate",
+      "Weight": "1.43 lbs",
+      "Bag Qty": "Each",
+      "PS": "2.94",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 27"
+    },
+    {
+      "Item #": "04606PS",
+      "Description": "2 7/8\" Weld On Elbows for Gate",
+      "Weight": "2.84 lbs",
+      "Bag Qty": "Each",
+      "PS": "7.34",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 27"
+    }
+  ],
+  "blackWeldOnElbows45Deg": [
+    {
+      "Item #": "04605PS",
+      "Description": "2 3/8\" Weld On Elbows for Gate",
+      "Weight": "N/A",
+      "Bag Qty": "Each",
+      "PS": "CALL",
+      "AL": 0,
+      "BL": 0,
+      "MA": 0,
+      "Page": "FIT 27"
+    }
+  ],
+  "proClamps": [
+    {
+      "straightCouplings": [
+        {
+          "Item #": "04510MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.25 lbs",
+          "Bag Qty": 35,
+          "PS": "10.31",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO1"
+        },
+        {
+          "Item #": "04512MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.40 lbs",
+          "Bag Qty": 30,
+          "PS": "12.06",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO1"
+        }
+      ],
+      "90DegElbows": [
+        {
+          "Item #": "04520MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.70 lbs",
+          "Bag Qty": 30,
+          "PS": "10.31",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO1"
+        },
+        {
+          "Item #": "04522MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.70 lbs",
+          "Bag Qty": 25,
+          "PS": "12.06",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO1"
+        }
+      ],
+      "twoSocketCrosses": [
+        {
+          "Item #": "04530MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.70 lbs",
+          "Bag Qty": 30,
+          "PS": "11.19",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04532MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.90 lbs",
+          "Bag Qty": 20,
+          "PS": "12.92",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "threeSocketCross": [
+        {
+          "Item #": "04534MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.0 lbs",
+          "Bag Qty": 20,
+          "PS": "22.89",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04536MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.0 lbs",
+          "Bag Qty": 15,
+          "PS": "26.48",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "fourSocketCross": [
+        {
+          "Item #": "04538MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.25 lbs",
+          "Bag Qty": 40,
+          "PS": "22.85",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04539MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.50 lbs",
+          "Bag Qty": 30,
+          "PS": "21.78",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "singleSocketTees": [
+        {
+          "Item #": "04540MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.25 lbs",
+          "Bag Qty": 40,
+          "PS": "10.31",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04542MA",
+          "Description": "1-7/8\"",
+          "Weight": "2.60 lbs",
+          "Bag Qty": 30,
+          "PS": "12.06",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "flanges": [
+        {
+          "Item #": "04550MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.45 lbs",
+          "Bag Qty": 30,
+          "PS": "10.76",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04552MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.50 lbs",
+          "Bag Qty": 25,
+          "PS": "12.47",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "twoHoleFlanges": [
+        {
+          "Item #": "04554MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.44 lbs",
+          "Bag Qty": 30,
+          "PS": "12.47",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        },
+        {
+          "Item #": "04556MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.50 lbs",
+          "Bag Qty": 15,
+          "PS": "18.07",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO2"
+        }
+      ],
+      "sideOutletElbows": [
+        {
+          "Item #": "04560MA",
+          "Description": "1-5/8\"",
+          "Weight": "2.25 lbs",
+          "Bag Qty": 20,
+          "PS": "11.19",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        },
+        {
+          "Item #": "04562MA",
+          "Description": "1-7/8\"",
+          "Weight": "2.25 lbs",
+          "Bag Qty": 15,
+          "PS": "12.92",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        }
+      ],
+      "sideOutletTee90Deg": [
+        {
+          "Item #": "04570MA",
+          "Description": "1-5/8\"",
+          "Weight": "1.62 lbs",
+          "Bag Qty": 30,
+          "PS": "9.13",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        },
+        {
+          "Item #": "04572MA",
+          "Description": "1-7/8\"",
+          "Weight": "1.95 lbs",
+          "Bag Qty": 20,
+          "PS": "10.75",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        }
+      ],
+      "threeSocketTee": [
+        {
+          "Item #": "04580MA",
+          "Description": "1-5/8\"",
+          "Weight": "2.10 lbs",
+          "Bag Qty": 20,
+          "PS": "11.19",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        },
+        {
+          "Item #": "04582MA",
+          "Description": "1-7/8\"",
+          "Weight": "2.12 lbs",
+          "Bag Qty": 15,
+          "PS": "12.92",
+          "AL": 0,
+          "BL": 0,
+          "MA": 0,
+          "Page": "PRO3"
+        }
+      ]
+    }
+  ]
 }

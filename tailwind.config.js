@@ -3,6 +3,9 @@ module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
     extend: {
+      screens: {
+        'h-lg' : { 'raw': '(min-height: 800px)' },
+      },
       fontFamily: { 
         golos: ['Golos Text', 'sans-serif'],
       }, 
