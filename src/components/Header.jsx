@@ -1,5 +1,5 @@
 import React from 'react';
-import border_FQP from '../../res/border_FQP.svg'; 
+import border_FQP from '../../res/border_FQP1.svg'; 
 import client_logo from '../../res/client_logo.svg'; 
 
 const Header = () => {

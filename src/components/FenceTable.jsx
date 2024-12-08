@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo} from "react";
 
 import "../stylesheets/Table.module.css";
 
@@ -22,6 +22,8 @@ const defaultData = [
     Total: "-",
   },
 ];
+
+
 
 // Helper function for creating column definitions
 const columnHelper = createColumnHelper();
@@ -58,8 +60,8 @@ const columns = [
 ];
 
 // Main application component
-function FenceTable({ initialTableName = "Table 1" }) {
-  const [tableName, setTableName] = useState(initialTableName);
+function FenceTable({ initialTableName = "Table 1", openSidebar }) {
+  const [tableName, _setTableName] = useState(initialTableName);
   // State to hold table data
   const [data, _setData] = useState(() => [...defaultData]);
 
@@ -99,9 +101,9 @@ function FenceTable({ initialTableName = "Table 1" }) {
                   {header.isPlaceholder
                     ? null // If it's a placeholder, render nothing
                     : flexRender(
-                        header.column.columnDef.header, // Render header content
-                        header.getContext() // Provide context
-                      )}
+                      header.column.columnDef.header, // Render header content
+                      header.getContext() // Provide context
+                    )}
                 </th>
               ))}
             </tr>
@@ -111,19 +113,27 @@ function FenceTable({ initialTableName = "Table 1" }) {
         <tbody>
           {table.getRowModel().rows.map((row) => (
             <tr key={row.id}>
-              {row.getVisibleCells().map((cell) => (
-                <td key={cell.id}>
-                  {flexRender(
-                    cell.column.columnDef.cell, // Render cell content
-                    cell.getContext() // Provide context
-                  )}
-                </td>
-              ))}
+              {row.getVisibleCells().map((cell, index) => {
+                // Use a single consistent wrapper, conditionally adding content
+                return (
+                  <td key={cell.id} onClick={index == 0 ? openSidebar: ""} className={index === 0 ? "hover:bg-sky-700 cursor-pointer" : ""}>
+                    {index === 0 ? (
+                      flexRender(cell.column.columnDef.cell, cell.getContext())
+                    ) : (
+                      <div>
+                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                      </div>
+                    )}
+                  </td>
+                );
+              })}
             </tr>
           ))}
         </tbody>
+
         {/* Table footer */}
       </table>
+
       {/* Button to trigger re-render */}
       <div className="flex justify-center">
         <button
@@ -138,11 +148,10 @@ function FenceTable({ initialTableName = "Table 1" }) {
           {Array.from({ length: totalPages }, (_, index) => (
             <div
               key={index}
-              className={`border rounded-lg select-none text-center text-base text-lg px-2 ml-2 ${
-                table.getState().pagination.pageIndex === index
+              className={`border rounded-lg select-none text-center text-base text-lg px-2 ml-2 ${table.getState().pagination.pageIndex === index
                   ? "bg-green-600 text-white"
                   : ""
-              }`}
+                }`}
               onClick={() => table.setPageIndex(index)}
             >
               {index + 1}
