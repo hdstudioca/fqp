@@ -27,34 +27,7 @@ const defaultData = [
 const columnHelper = createColumnHelper();
 
 // Define table columns
-const columns = [
-  columnHelper.accessor("ItemNumber", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Description", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Unit", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Quantity", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Material", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Price", {
-    cell: (info) => info.getValue(),
-  }),
-  columnHelper.accessor("Total", {
-    cell: (info) => {
-      const value = info.getValue();
-    return typeof value === "number" 
-      ? `$${value.toFixed(2)}` 
-      : value;
-    },
-  }),
-];
+
 
 // Main application component
 function FenceTable({
@@ -63,10 +36,61 @@ function FenceTable({
   selectedFitting,
   onFittingAdded,
 }) {
+  
   const [items, setItems] = useState([]);
   const [editingCell, setEditingCell] = useState(null);
   const [tableName, _setTableName] = useState(initialTableName);
 
+
+  const handleDelete = (id) => {
+    setItems(prev => prev.filter(item => item.id !== id));
+  };
+  
+  const columns = [
+    columnHelper.accessor("ItemNumber", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Description", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Unit", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Quantity", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Material", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Price", {
+      cell: (info) => info.getValue(),
+    }),
+    columnHelper.accessor("Total", {
+      cell: (info) => {
+        const value = info.getValue();
+      return typeof value === "number" 
+        ? `$${value.toFixed(2)}` 
+        : value;
+      },
+    }),
+    columnHelper.display({
+      id: 'actions',
+      header: 'Actions',
+      cell: ({ row }) => {
+        // Hide delete button for default row
+        if (row.original.ItemNumber === "+Add Item") return null;
+        return (
+          <button
+            onClick={() => handleDelete(row.original.id)}
+            className="text-red-500 hover:text-red-700 px-2 py-1"
+          >
+            Delete
+          </button>
+        );
+      },
+    }),
+  ];
+  
   // Modified updateItem function to handle material changes
   const updateItem = (rowIndex, columnId, value) => {
     setItems((prev) =>
@@ -103,11 +127,13 @@ function FenceTable({
         (mat) => selectedFitting[mat] > 0
       );
 
+
       const initialPrice = supportedMaterials.length > 0 
         ? selectedFitting[supportedMaterials[0]]
         : 0;
 
       const newItem = {
+        id: Date.now(), // Unique ID for the new item
         ItemNumber: selectedFitting.ItemNumber,
         Description: selectedFitting.Description,
         Unit: "EA",
@@ -184,15 +210,25 @@ function FenceTable({
             <td
               key={cell.id}
               onClick={() => {
-                if (index === 0) openSidebar();
-                if (isEditable) setEditingCell({ 
-                  rowId: row.id, 
-                  columnId: cell.column.id 
-                });
+                // Only open sidebar for default row's first cell
+                if (isDefaultRow && index === 0) {
+                  openSidebar();
+                }
+                if (isEditable) {
+                  setEditingCell({ 
+                    rowId: row.id, 
+                    columnId: cell.column.id 
+                  });
+                }
               }}
-              className={index === 0 
-                ? "hover:bg-sky-700 cursor-pointer" 
-                : (isEditable ? "hover:bg-gray-100 cursor-pointer" : "")}
+              className={
+                // Only show pointer cursor for default row's first cell
+                isDefaultRow && index === 0
+                  ? "hover:bg-sky-700 cursor-pointer"
+                  : isEditable
+                  ? "hover:bg-gray-100 cursor-pointer"
+                  : ""
+              }
             >
               {index === 0 ? (
                 flexRender(cell.column.columnDef.cell, cell.getContext())
